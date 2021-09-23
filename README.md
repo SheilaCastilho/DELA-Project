@@ -35,5 +35,3 @@ Folders:
   - Guides: contains the guidelines (In English) and the Decision Tree. 
 
 Please, see publication for more details.
-
-Please, see guidelines for annotation and decision tree.
