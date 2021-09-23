@@ -6,13 +6,13 @@ DELA stands for Document-level machinE transLation evAlaution.
 
 The corpus is segmented by sentence (checked mannually). The issues tagged here are issues that would occur in a translation from English into Brazilian Portuguese when no context information is given. Issues that are solved within the single sentence are not tagged. 
 
-The issues tagged are:
-Ellipsis
-Gender
-Lexical ambiguity
-Number
-Reference
-Terminology
+The issues tagged are:\\
+Ellipsis\\
+Gender\\
+Lexical ambiguity\\
+Number\\
+Reference\\
+Terminology\\
 
 The annotation was performed for each sentence, which are tagged one per line, in the order they appear in the sentence, followed by their explanation/solution, along with modifications performed in the source (if any) and translations of some cases and notes. 
 Sentences with no context-related issues are followed by two Xs for the issue and the solution. 
