@@ -22,9 +22,10 @@ For Reference and Ellipsis, the term that contains the issue is stated along wit
 
 The corpus is available in two formats: 
 
-One is a spreadsheet (.xls) format, containing the tagged corpus in all domains and full information. This .xls format will allow for filtering specific issues or sentences and enable users/researchers to see the rationale of the annotation. 
+  - One is a spreadsheet (.xls) format, containing the tagged corpus in all domains and full information. This .xls format will allow for filtering specific issues or sentences and enable users/researchers to see the rationale of the annotation. 
 
-Second is plain text (.txt) format, containing the segment id, sentence, issue and explanation all in one line. Modifications and translation are not provided in this format. This format will allow for an automatic use of the corpus, for training or as a test suite.
+  - Second is plain text (.txt) format, containing the segment id, sentence, issue and explanation all in one line. Modifications and translation are not provided in this format. This format will allow for an automatic use of the corpus, for training or as a test suite.
 
 Please, see publication for more details.
+
 Please, see guidelines for annotation and decision tree.
