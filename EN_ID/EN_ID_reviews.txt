@@ -1,0 +1,691 @@
+<doc	https://www.amazon.com/product-reviews/B07BC6M71C?ref_=fsclp_pl_nr_8
+<seg id="1">	Tracy Wright - Not mint green at all.
+<seg id="2">	Reviewed in the United States on April 12, 2018
+<seg id="3">	This chair is way darker than it is in the picture.
+<seg id="4">	It is more of an olive green than a mint green.
+<seg id="5">	It is pretty.
+<seg id="6">	I think my husband put it together backwards because it barely rocks.
+<seg id="7">	I am going to have my son try to turn the legs the other way and hope it helps.
+<seg id="8">	If you are looking for mint green for a nursery, like i was, it is not.
+</doc>	
+	
+<doc	https://www.amazon.com/-/pt/gp/customer-reviews/R1E3KI2HVQRT9U/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=B081HY5839#R1E3KI2HVQRT9U
+<seg id="1">	The OG Elf
+<seg id="2">	HUGE help with my back pain
+<seg id="3">	Reviewed in the United States on March 4, 2020
+<seg id="4">	I've been struggling with lower back pain for the last few months and was having trouble while working out.
+<seg id="5">	My trainer suggested that I try a waist cincher.
+<seg id="6">	I was leery of trying it, but glad I listened to him.
+<seg id="7">	I feel a marked difference in my back.
+<seg id="8">	It fits nice and snug which keeps my back straight and my posture aligned.
+<seg id="9">	It helps me remember to sit up straight and seek alternatives on bending or slouching to get something.
+<seg id="10">	Even thought it keeps your back straight it is still very flexible, so it doesn't hinder your normal activities.
+<seg id="11">	I have no difficulty breathing.
+<seg id="12">	I was shocked at how comfortable this is to wear.
+<seg id="13">	The first day I got it, I meant to wear it for an hour to try it and I ended up forgetting it was on and wore it for 4 hours.
+<seg id="14">	The material is soft and feels nice on my skin.
+<seg id="15">	The hooks are heavy duty and made to last.
+<seg id="16">	There is a learning curve on figuring out how to get it hooked on and be tight enough at the same time.
+<seg id="17">	It only took a few days to figure out the best way for me.
+<seg id="18">	I'm so glad that it comes with the extender, so I have more levels to use to continue to get smaller.
+<seg id="19">	I really like this product and will continue to use it as I need smaller sizes.
+</doc>	
+	
+<doc	https://www.amazon.com/-/pt/gp/customer-reviews/R2M5AALKI54AQQ/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B081HY5839
+<seg id="1">	Rebecca
+<seg id="2">	Wonderful Waist Trainer
+<seg id="3">	Reviewed in the United States on February 21, 2020
+<seg id="4">	I am 5’11”, 180lbs and four months postpartum.
+<seg id="5">	I wear a size 30/US8 in jean at the moment.
+<seg id="6">	I found my size on the chart which would have been a size large, and decided to size down one size to a medium.
+<seg id="7">	I was able to secure the waist trainer on the largest hooks right away.
+<seg id="8">	Had I not been able to, the trainer graciously includes a size extender!
+<seg id="9">	The material of this waist trainer is nice and thick.
+<seg id="10">	The bones are rigid and hold their form, but do not restrict your movement.
+<seg id="11">	I feel very held in while wearing this.
+<seg id="12">	I am not new to waist training.
+<seg id="13">	I own a much more expensive waist trainer that the Kardashians were peddling a few years ago.
+<seg id="14">	The construction of this trainer is much higher quality.
+<seg id="15">	The stitching is all very neat and even.
+<seg id="16">	I was surprised to see that I didn’t have back fat problems while waring this trainer- something my other trainer does cause.
+<seg id="17">	I feel very confident wearing this under most outfits when I go out.
+<seg id="18">	I’m so happy with my purchase.
+<seg id="19">	Will gladly repurchase in a smaller size when needed.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R3IRG7GDQA1LU5/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B07VM28XTR
+<seg id="1">	Wilmar Luna
+<seg id="2">	Instructions are bare bones, but the air fryer is wonderful!
+<seg id="3">	Reviewed in the United States on November 1, 2019
+<seg id="4">	First off, my apologies for being late in posting this review.
+<seg id="5">	I received this fryer about a week or so ago but didn't know what to make with it because . . . I had NEVER used an air fryer before.
+<seg id="6">	Also, this particular model DOES NOT COME WITH RECIPES!
+<seg id="7">	Nothing, zilch, nada!
+<seg id="8">	You pretty much have to look for your recipes online because the Instant Vortex will not provide you with any.
+<seg id="9">	They will give you a very broad time and heat guide but that's it.
+<seg id="10">	In fact, my main complaint with this air fryer is mainly on the bare-bones instructions.
+<seg id="11">	For that reason, a lot of what you do with this air fryer is going to have to be through trial and error.
+<seg id="12">	There are more instructions to prevent you from lighting your house on fire than there are in the operation of the machine.
+<seg id="13">	So, as someone who has never used an air fryer before, especially an Instant Vortex Plus 6 Quart 6-in-1 thingamajig, what did I think of it?
+<seg id="14">	AWESOME!
+<seg id="15">	But before we get to why it's awesome, I need to tell you what you're going to get when you purchase this device.
+<seg id="16">	THINGS TO KNOW BEFORE PURCHASING:
+<seg id="17">	1.) Most timers (at least in the US) when they are 00:00 it means 00 mins : 00 seconds.
+<seg id="18">	Not so with this air fryer.
+<seg id="19">	With the Instant Vortex the first two digits are hours and the last two digits are minutes.
+<seg id="20">	This was not clear in the instruction manual.
+<seg id="21">	Remember, I've never used an air fryer before, so this was new to me.
+<seg id="22">	2.) When using air fryer mode, at around 3 quarters time, the fryer will ask you to turn over your food.
+<seg id="23">	This was also not very clear in the instructions.
+<seg id="24">	3.) The basket is SMALL and not ideal for party size servings.
+<seg id="25">	Six quarts is good for a couple, but anyone with a big family is going to find themselves running multiple batches to get enough food cooked.
+<seg id="26">	If you're planning a big super bowl wing fest, you might want to get something bigger.
+<seg id="27">	BONUS: The air fryer DOES NOT get dangerously hot like an oven.
+<seg id="28">	You can accidentally touch the top of the fryer and not burn your hand off.
+<seg id="29">	The vent in the back is also warm but not blazing hot.
+<seg id="30">	As long as the safety instructions are followed, this machine feels very safe to use.
+<seg id="31">	Somehow we didn't blow a fuse when using the microwave and the air fryer at the same time, so that was also impressive, but your results may vary.
+<seg id="32">	All right, so let's get into exactly how I used my air fryer as someone who has never, ever used one before.
+<seg id="33">	- We added pepper and salt to the raw wings.
+<seg id="34">	Then we greased the tray and basket with Pam cooking oil.
+<seg id="35">	EDIT: (Don't grease the tray with PAM.
+<seg id="36">	You can spray your food not your tray.
+<seg id="37">	Or use a substitute instead of PAM.)
+<seg id="38">	- We found an online recipe that was for 24 minutes.
+<seg id="39">	At the twelve minute mark we flip over the wings and cook the other side.
+<seg id="40">	- After putting the food into the tray and setting the fryer for 12 minutes, we quickly discovered that the fryer must PREHEAT first.
+<seg id="41">	After it ran through its preheat cycle, then it said "ADD FOOD."
+<seg id="42">	Whoops.
+<seg id="43">	The wings stayed in there anyway.
+<seg id="44">	- At around 5 minutes, the fryer then said "TURN FOOD OVER."
+<seg id="45">	We didn't know it was going to give us this prompt.
+<seg id="46">	So we took out the basket to check on the wings, they were cooking but not yet finished, so we flipped them over.
+<seg id="47">	- Once the timer was finished, we removed the basket and saw that the wings were halfway cooked, awesome!
+<seg id="48">	We popped them back in for another 12 minutes but made note that in the future, we just put them in for 24 and wait for the fryer to tell us when to flip.
+<seg id="49">	Also, not once did I feel a blast of hot air like I do when taking things out of the oven.
+<seg id="50">	The fryer and the basket felt safe to handle AT ALL TIMES.
+<seg id="51">	- After another twelve minutes it was time to taste test.
+<seg id="52">	Did the wings cook thoroughly or were we about to get a case of salmonella?
+<seg id="53">	- The answer was YES!
+<seg id="54">	The wings cooked thoroughly.
+<seg id="55">	The exterior skin was nice and crunchy while the inside was juicy and flavorful.
+<seg id="56">	All of the excess oil dripped off of the wings and settled at the bottom of the basket.
+<seg id="57">	Awesome!
+<seg id="58">	- Clean up required dumping out the remaining oil into a bag, then cleaning the basket and grill with paper towels and water.
+<seg id="59">	THEN WE TRIED COOKING SALMON USING THE BAKE SETTING.
+<seg id="60">	- Grease the grill with pam.
+<seg id="61">	EDIT: DO NOT GREASE THE GRILL WITH PAM.
+<seg id="62">	You can put PAM on your food but not the grill tray.
+<seg id="63">	Supposedly this starts to erode some of the coating on the tray.
+<seg id="64">	Whoops!
+<seg id="65">	Found this out recently.
+<seg id="66">	- Pop 1.6lbs of Salmon into the basket.
+<seg id="67">	(This time we waited for the preheat)
+<seg id="68">	- Cooked for 7 minutes at 389 I believe.
+<seg id="69">	Don't remember.
+<seg id="70">	- Took the salmon out and found that the interior was still raw.
+<seg id="71">	Whoops.
+<seg id="72">	Again, no recipes means we don't know what the heck we're doing with this thing.
+<seg id="73">	Pop it back in for another 7 minutes.
+<seg id="74">	- Salmon bakes and is now thoroughly cooked.
+<seg id="75">	Still good, still flavorful, but we underestimated cooking time.
+<seg id="76">	WHAT ABOUT THE BROIL, ROAST, REHEAT & DEHYDRATE FEATURE?
+<seg id="77">	I, unfortunately, do not know.
+<seg id="78">	We haven't really roasted, broiled, or dehydrated food in my house.
+<seg id="79">	However, if the chicken wings and salmon are the standard it sets, then I'm sure those features will work perfectly.
+<seg id="80">	In fact, I have to say that I am supremely impressed with the Instant Vortex 6-in-1 multi use fryer.
+<seg id="81">	It's extremely safe t use, It cooks the food thoroughly, and it's super easy to clean.
+<seg id="82">	If you're looking for an air fryer with the versatility of an oven but without the hassle or increase to your gas bill, than this air fryer is definitely going to be a perfect fit for you!
+<seg id="83">	Very, very happy with this device and I can't wait to fry more food with it.
+<seg id="84">	HIGHLY RECOMMEND!
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R2KON0W1VLCXCW/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B07VM28XTR
+<seg id="1">	Francine Clave
+<seg id="2">	Overwhelming smell of hot plastic imparts to food
+<seg id="3">	Reviewed in the United States on April 27, 2020
+<seg id="4">	Size: 6 QtStyle: 6 in 1 Pattern Name: Air Fryer
+<seg id="5">	After several uses my air fryer still emits such a strong odor of hot plastic I put it in the garage when using it.
+<seg id="6">	My husband says the food tastes like burnt plastic.
+<seg id="7">	As much as I enjoy cooking with it, he’s right.
+<seg id="8">	I like everything about the unit except the taste of burnt plastic on the food.
+<seg id="9">	We no longer use it.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R1T943DG2V7T62/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01B14WQH8
+<seg id="1">	Lucie
+<seg id="2">	LOVE IT!!!!!
+<seg id="3">	Reviewed in the United States on December 26, 2019
+<seg id="4">	Love it!!!
+<seg id="5">	My almost-2-year-old plays with this nonstop!
+<seg id="6">	The carrot is her favorite.
+<seg id="7">	This set is adorable and she loves playing with it!
+<seg id="8">	The only thing I'd change is that there is an extra thing to plant without a pot to plant it in.
+<seg id="9">	I'd either add another pot, or make it so that the extra flower can stand up on its own (without a pot) without falling over.
+<seg id="10">	Overall, I love this set.
+<seg id="11">	I definitely recommend!
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R1CH9TQKZWY0XA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LFTKI74
+<seg id="1">	Tia Dockery
+<seg id="2">	Best Snake for a Prank!
+<seg id="3">	Reviewed in the United States on November 30, 2019
+<seg id="4">	Ok, let me start by saying I got this to prank my husband...who is deathly afraid of snakes.
+<seg id="5">	Before you go and pity him, just know he has gotten me with some pretty solid pranks over the years and I can never get him back.
+<seg id="6">	So this was the ultimate win for me, and it has become a legendary tale.
+<seg id="7">	I put the toy snake on the front steps of our house, hoping to catch his reaction on our security cameras.
+<seg id="8">	Days went by and he didn’t even notice it.
+<seg id="9">	One day, I was home before him and just happened to pull up the camera feed as he was walking to the door...
+<seg id="10">	I even hit record manually just in case TODAY was the day.
+<seg id="11">	I watched as he came up the sidewalk and lost it when he finally saw the snake and reacted.
+<seg id="12">	What you can’t see off to the side is that he went around our front porch, climbed the railing, then scooted quickly to the front door.
+<seg id="13">	I was literally in TEARS at this point while laying on our bed, rolling in hysterics as things unfolded.
+<seg id="14">	I could hear him walk through the house, out the back door and things got quiet for a moment.
+<seg id="15">	But I knew what he was doing....he was getting a shovel.
+<seg id="16">	In anticipation, I kept the security camera open on my phone and waited.
+<seg id="17">	After a few minutes I hear him come back through the house and he opened the front door again.
+<seg id="18">	I hit record on the camera and caught him take the shovel and attempt to kill the snake with one downward stab—
+<seg id="19">	and at this point I’m CRYING in hysterics and laughing so hard my stomach hurt!!
+<seg id="20">	He came back in the house and said “So you think this is funny?!” up the stairway at me and I LOST IT.
+<seg id="21">	In my laughter, I bellied out a “YES, I do!!”
+<seg id="22">	This snake was so worth the purchase, and I even used it to stop the birds from making a nest on top of the columns on our front porch.
+<seg id="23">	I don’t hate birds, but hate when they nest and lay eggs next to either door going in or out of the house because they attack us like we have somehow invaded their space lol.
+<seg id="24">	I continue to get a lot out of this simple little guy, and it’s safe to say he looks real enough to fool humans and birds :)
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R26U3EEQJMDLDK/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=B008YQ4OH2
+<seg id="1">	Rick
+<seg id="2">	Very Nice Ships Model!
+<seg id="3">	Reviewed in the United States on October 3, 2015
+<seg id="4">	I wanted a wooden model that I could put together myself.
+<seg id="5">	I am glad it came assembled as I could not have done as good a job as the builder of this ship.
+<seg id="6">	The ship is very detailed and looks good.
+<seg id="7">	The only draw back is the sails on it are slightly bent but that is the worst I can say about this model.
+<seg id="8">	I am going to try to get them round using hair curlers from my wife/daughters.
+<seg id="9">	It is understandable though since it was shipped from China.
+<seg id="10">	WARNING: When you open the box, be VERY careful and take your time to figure out how to get it out of the box.
+<seg id="11">	Seller did a great job making sure the ship would not get damaged while shipping but if you are not careful, you could possibly break something so be careful with knives, utility knives or even scissors.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R344NPMJC6ERID/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=B0858K44NP
+<seg id="1">	Sharp
+<seg id="2">	Pub to Adventure to Skull island. Entire stop motion film theme!
+<seg id="3">	Reviewed in the United States on December 31, 2020
+<seg id="4">	Style: Frustration-Free Packaging
+<seg id="5">	As a crazy Lego fanatic, I made it to page 4 and had to give this a 5 star review.
+<seg id="6">	Set is originally 99 at local store, idk if I can say where I got mine or if it's allowed to give the real retail value price.
+<seg id="7">	It will go up after It's discontinued (reviewed Jan 1st 2021 atm).
+<seg id="8">	They don't sell fast, but far worth the cost!!!!
+<seg id="9">	This creator will be found and followed!
+<seg id="10">	This is my first set with original pieces, I have no clue how to fabricate into designs yet!
+<seg id="11">	The sails!
+<seg id="12">	Now, Lego has some nice ships with some costly price tags from older sets.
+<seg id="13">	But do you have a set that makes the entire stop motion film?
+<seg id="14">	From the pub collecting your treasure map, to the boat sailing on your adventure, to arrive at skull island and collect that booty.
+<seg id="15">	For me to say this tops the Lego power miners is outrageously a top piece worthy from gifting to having in your own collection.
+<seg id="16">	Disclaimer from picture. set comes with 1 orange lego seperator.
+<seg id="17">	1. ruler > any true fanatic will have one, save the brain for design not counting studs or height.
+<seg id="18">	2. screwdriver > not a lego piece but battery replacement tool,
+<seg id="19">	3 hole punch Lego technic sets. X = belt carry case > Lego throwbot or slizer case.
+<seg id="20">	Add an extra 14 years to realize my age.
+<seg id="21">	This is what made me a technic master builder.
+<seg id="22">	Cannon fired 5 feet easily across room like the minifig guns.
+<seg id="23">	I hope my review told you it's worth it for many types of interests from building to entertainment.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R3SG7XK88PQ8QP/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=B07XD6F2ZK
+<seg id="1">	Andover65
+<seg id="2">	It was exaclty what we were looking for
+<seg id="3">	Reviewed in the United States on January 8, 2021
+<seg id="4">	We have a friend whose kid loves Barbie and playing doctor/nurse.
+<seg id="5">	This gift was a perfect for her.
+<seg id="6">	The best of both her play worlds!
+<seg id="7">	Very reasonable price and fits right in with the rest of her Barbie collection.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R3LB7ICOGAYMW5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B005KBAYM8
+<seg id="1">	RosytheRivetter
+<seg id="2">	Bought it for a friend
+<seg id="3">	Reviewed in the United States on January 17, 2013
+<seg id="4">	I was looking for a Barbie that was a doctor for a friend who was going through surgery and loves Barbie.
+<seg id="5">	This barbie combo did what I needed for my friend but she'd like a surgeon doctor now.
+<seg id="6">	Barbie is Barbie, and any girl who loved her/them will love this product.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/RQ3ZR15SWTH6X/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B005KBAYM8
+<seg id="1">	Spin It Baby
+<seg id="2">	"Grey's Anatomy Doctor" in high heeled wedge shoes and a micro mini…
+<seg id="3">	Reviewed in the United States on December 1, 2013
+<seg id="4">	While this gift was adored by it's 6 year old recipient, as a mother, I can't help but mention the fact that it is very TYPICAL Barbie.
+<seg id="5">	I joked with my friend that it was "Grey's Anatomy Doctor Barbie"- a very sexy Dr. Barbie in her short dress and high heeled shoes.
+<seg id="6">	Granted, the shoes are wedge (I myself prefer wedge to stiletto, much more practical in the echelon of heels), but I've never actually seen a Dr. in a hot pink micro mini wearing 5" hot pink wedges before, well, except maybe in the movies... you know, THOSE movies.
+<seg id="7">	And the baby that I thought looked so cute online, that comes with this set?
+<seg id="8">	I penned it, "Emaciated Premie Barbie Baby".
+<seg id="9">	I mean seriously, Mattel, can't you AT LEAST make a nice fat, round baby for your Barbie line?
+<seg id="10">	Does even the BABY have to be unusually long and thin?
+<seg id="11">	I've never seen a healthy baby that looks like this one.
+<seg id="12">	And as you read this, consumer, I'm sure you're wondering why I didn't notice this BEFORE ordering it?
+<seg id="13">	And to that I confess that as a parent purchasing a Barbie, I was really searching for the lesser of two evils.
+<seg id="14">	I thought perhaps it was better than say, Roller Blade Barbie in her short, short hot pants with her pink hair, etc?
+<seg id="15">	But maybe I was wrong.
+<seg id="16">	Anyway, my daughter loved it, and her best friend loved it, and her best friend's mom & I had a really good laugh about it.
+<seg id="17">	It also sparked a very healthy conversation with the girls about how unrealistic Barbie's body is, and her clothing, and the baby... and how it's all just a "fantasy", etc.
+<seg id="18">	Good luck in purchasing!
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/RZMR913SR206R/ref=cm_cr_arp_d_viewpnt?ie=UTF8&ASIN=B01IA3HJGG#RZMR913SR206R
+<seg id="1">	Willa G. Tsarones
+<seg id="2">	Reviewed in the United States on November 24, 2017
+<seg id="3">	I really liked this waffle maker after receiving it.
+<seg id="4">	I felt it was designed well and is highly functional and easy to use.
+<seg id="5">	I make 2 waffles twice every weekend with this Cusinart WAF-F20 and have been doing so for the last 10 months with great success.
+<seg id="6">	I really liked it.
+<seg id="7">	Then, one weekend after cleanup, I looked at the rear support post and stared for awhile and asked myself "What an I looking at?"
+<seg id="8">	I was dumbfound.
+<seg id="9">	The entire housing of this unit's rear support post is made from cheap plastic.
+<seg id="10">	Plastic!
+<seg id="11">	The center section, which has two sets of coils, one for the upper and one for the lower griddle portion get extremely hot and is within 1 inch of that rear post.
+<seg id="12">	Cheap plastic and heat just don't get along.
+<seg id="13">	Cheap plastic easily warps, swells, and weakens with heat.
+<seg id="14">	Now add to this the ever-so-slight "torque" that's applied every time you turn the unit on its pivot and it hits the stop.
+<seg id="15">	This heat on plastic, plus the torque, plus 10 months of use, and the entire rear support post split wide open, exposing the gearing mechanism and the wiring (see the Michael Clark review and pictures).
+<seg id="16">	With great frustration, I have been in contact with Conair numerous times for a warranty replacement, and nearly a month later, still don't have the replacement unit.
+<seg id="17">	Their customer service seems to need a regular kick in the pants to get moving.
+<seg id="18">	So be aware, this unit requires you use "kid gloves" when operating it.
+<seg id="19">	Don't clean the unit until it is completely cool and the plastic has firmed back up, and resist applying torque when pivoting the unit, especially when hot.
+<seg id="20">	I'm disappointed.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R3DDYYFS0EKG25/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B01IA3HJGG
+<seg id="1">	Cherith
+<seg id="2">	Excellent product ---- well maybe not so much
+<seg id="3">	Reviewed in the United States on February 25, 2017
+<seg id="4">	2/23/17 Got it today and we fired it up.
+<seg id="5">	All I can say is - Wow
+<seg id="6">	Perfect
+<seg id="7">	Buy it
+<seg id="8">	5/19/17 Uh-Oh
+<seg id="9">	Update - less than 3 months old.
+<seg id="10">	Used about 6 times.
+<seg id="11">	Used it tonight and the hinge broke and flew off.
+<seg id="12">	See the photos.
+<seg id="13">	I had registered it on the Cuisinart site on purchase.
+<seg id="14">	So I sent customer service an email with the pics.
+<seg id="15">	Will update when they respond.
+<seg id="16">	In the meantime, changing the rating from 5 to 2 'cause it does make great waffles but this exploding hinge thing.......
+<seg id="17">	5/31/17 Got the replacement waffle maker today.
+<seg id="18">	In order to get it I had to:
+<seg id="19">	1- Pay Cuisinart $10 to ship the replacement
+<seg id="20">	2- Send the broken one back which at the USPS cheapest rate was $30.68
+<seg id="21">	Will have to think about it before I purchase another Cuisinart product (we have several).
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R3PLEMJ3WW4BGU/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B003LK41JM
+<seg id="1">	L. E. Schwellenbach
+<seg id="2">	Another great classic Nicktoon from Shout Factory
+<seg id="3">	Reviewed in the United States on August 10, 2011
+<seg id="4">	Hey Arnold is a Nickelodeon cartoon series that originally ran for five seasons from 1996 to 2004.
+<seg id="5">	This DVD box set from Shout Factory contains the first 20 episodes of the series.
+<seg id="6">	The series was created by Craig Bartlett and depicts the life of title character Arnold and his interactions with his quirky classmates and bizarre neighbors in the large nameless city in which they all live.
+<seg id="7">	It is well known for skillfully mixing comedy with some dramatic moments as well as for devoting at least an episode or two to even the most minor of characters throughout its run.
+<seg id="8">	It also has a fantastic jazzy soundtrack.
+<seg id="9">	The animation improved greatly over the 5 seasons of the series, and the first season is notably rougher than later seasons, but it is by no means bad, simply a product of its time.
+<seg id="10">	This DVD is the general retail release of Season 1.
+<seg id="11">	This season was previously released as an Amazon exclusive Media on Demand (MOD) set burned to order and available for a relatively high price.
+<seg id="12">	The retail set has a much more professional feel to it, it comes packaged in a clear case with some nice art on the inside, as opposed to the standard issue black case that the previous release used.
+<seg id="13">	Additionally, the previous release had silent menus while this new set has the show's theme song playing in the background.
+<seg id="14">	The old set also had some compatibility issues related to the nature of the product; being burned on demand onto DVD-R discs led to complaints about the discs not being playable on certain players.
+<seg id="15">	While I personally never experienced that issue with any of the MOD sets, this new set should be free of those problems regardless.
+<seg id="16">	This release contains NO extras whatsoever.
+<seg id="17">	Personally, this doesn't bother me as I usually use DVD extras once, at most.
+<seg id="18">	I understand that some people fully expect all DVDs to have extras, but for me, it just isn't that big of a problem.
+<seg id="19">	The episodes are here, and in the end that's what the fans have been waiting for.
+<seg id="20">	Overall, this is a quality release of the complete first season and overlooking the lack of anything but the episodes themselves fans should be happy to finally see this series come to DVD.
+<seg id="21">	This is the fourth Nickelodeon release from Shout Factory, following the first seasons of The Wild Thornberrys, Rocko's Modern Life, and Hey Dude.
+<seg id="22">	Several more are planned for the rest of the year, including The Angry Beavers Seasons 1 & 2, Danny Phantom Season 1, Aaahh!! Real Monsters Season 1, Catdog Season 1 Part 1 and The Wild Thornberrys Season 2 Part 1.
+<seg id="23">	So far I feel like Shout Factory is doing a great job with these sets and I hope their partnership with Nickelodeon can continue for years to come.
+<seg id="24">	Note: All five seasons of Hey Arnold were at one time available from Amazon.
+<seg id="25">	Those seasons are the older MOD releases, and seasons 2-5 have NOT been announced or released by Shout Factory.
+<seg id="26">	As of July 16, 2011 the older MOD releases have been discontinued, however they may still be available through third party sellers.
+<seg id="27">	Additional Note: Many of the reviews on this page refer to the old MOD release of season 1.
+<seg id="28">	The episodes on this release are the same, however the reviews of the quality of the product itself seen here do not reflect this retail release.
+<seg id="29">	I have written to Amazon requesting they remove the old reviews; they have not yet done so.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R32MUJ0LTCVA8E/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00552986K
+<seg id="1">	Lisa Shea
+<seg id="2">	HALL OF FAME
+<seg id="3">	A Beautiful Adaptation
+<seg id="4">	Reviewed in the United States on August 27, 2012
+<seg id="5">	Lord of the Rings: The Fellowship Of The Ring was a powerhouse of an ensemble film, featuring an all-star cast, fantastically detailed sets, an almost insane attention to detail, and gorgeous cinematography.
+<seg id="6">	It's no wonder that while only released in 2001 it immediately vaulted to the #50 spot on the new AFI Top 100 listing, while other classics like Doctor Zhivago dropped off the list completely.
+<seg id="7">	I should caveat first that I grew up reading and adoring the Lord of the Rings trilogy.
+<seg id="8">	I re-read it probably once a year.
+<seg id="9">	I absolutely adored Aragorn, and all of my daydreams were about me as Aragorn's loyal companion.
+<seg id="10">	In the books, you see, Arwen hardly appears.
+<seg id="11">	She's a footnote in an appendix.
+<seg id="12">	This first book is all about men, men, and more men.
+<seg id="13">	I suppose Galadriel shows up at one point, to pass around presents, but that's about it.
+<seg id="14">	So when I went to see the film, it was almost a religious experience.
+<seg id="15">	The Weathertop scene, where the hobbits are calling out "Strider" in panic, had me shiver.
+<seg id="16">	These were my dreams coming to life.
+<seg id="17">	The attention the WETA workshop put into every scene is legendary.
+<seg id="18">	They literally had the book open and were reading the pages to know what to do.
+<seg id="19">	They hand carved proper Dwarvish ruins along all surfaces of the caves in the Mines of Moria.
+<seg id="20">	Viggo learned to speak Elvish and lobbied for more dialogue in the language.
+<seg id="21">	They tended to the gardens at Hobbiton for a full year so it had a "lived in" look.
+<seg id="22">	Yes, they had to cut out some of the book.
+<seg id="23">	Heck, the movie was already 3 hours long!
+<seg id="24">	I do not mind that at all.
+<seg id="25">	And I also do not mind that they gave Arwen a part!
+<seg id="26">	Up until now we had ONE FEMALE.
+<seg id="27">	That was it.
+<seg id="28">	One.
+<seg id="29">	I realize the book was written in the "dark ages" of 1954 but still!
+<seg id="30">	Surely there could be more females involved.
+<seg id="31">	Even with the TWO whole females in the movie, they never even interact.
+<seg id="32">	They are both there solely to be foils to the menfolk.
+<seg id="33">	Still, one cannot blame Jackson at all for that.
+<seg id="34">	The responsibility for that goes back to J. R. R. Tolkien.
+<seg id="35">	Some purists were already upset enough that Arwen got to speak in the movie :).
+<seg id="36">	I imagine a hostile rage would have erupted if more than that occurred.
+<seg id="37">	So absolutely I adore Lord of the Rings, and I own all the different versions on DVD.
+<seg id="38">	I highly recommend watching it.
+<seg id="39">	It is glorious in its own right, and so much of what it shows and says has infiltrated its way into modern culture.
+<seg id="40">	Watching TV, reading novels, or going to movies can often involve an expectation that you "get" the references involved.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R24I18LTTKXU5H/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B08KH367ZF
+<seg id="1">	Tanis Coralee Leonhardi
+<seg id="2">	Caves, creatures, and picks oh my!
+<seg id="3">	Reviewed in the United States on March 11, 2020
+<seg id="4">	Sitting knees up, feet on seat of chair butterfly style is comfortable, I am happy that they included an adult doing that in a movie, yes it is still okay doing that as an adult!
+<seg id="5">	I even did it during group meetings (only sitting on the floor instead of a chair) as a phD candidate in geophysics at the University of California, Berkeley.
+<seg id="6">	Woohoo for childhood trends that are still acceptable as adults!
+<seg id="7">	Caves are fun to explore and can be very creepy, especially with lights out - they chose a great setting for this movie.
+<seg id="8">	Some creatures do not want to be seen and will pursue you until you are dead when you trespass on their land and touch their things without their consent.
+<seg id="9">	Will the group of women make it out alive?
+<seg id="10">	Or do the cave creatures eat them all alive?
+<seg id="11">	If ever caught in this situation, just remember cave creatures just want some peace and quiet and you are the ones who intruded on them.
+<seg id="12">	Also, a good reminder that things that live in caves can venture outside of caves.
+<seg id="13">	Some of the imagery is reminiscent of Norse Mythology and the mead of poetry.
+<seg id="14">	This movie would have been a lot shorter had the ladies not taken picks.
+<seg id="15">	Good and fast-moving entertainment for the latter portion.
+<seg id="16">	Takes a little set-up to get going in the first portion.
+</doc>	
+	
+<doc	https://www.amazon.com/Comet-Center-Stool-Pink-Spatter/dp/B00BCOOQIA/ref=sr_1_42?dchild=1&keywords=desk%2Bgirl&qid=1598534435&sr=8-42&th=1
+<seg id="1">	Bree R. -
+<seg id="2">	The assembly instructions will challenge your will to live.
+<seg id="3">	Reviewed in the United States on March 6, 2019
+<seg id="4">	Assembled, the desk is gorgeous, durable and very easy to use.
+<seg id="5">	The tilting table is great and I love the size of the workspace/extra shelf and drawers.
+<seg id="6">	But the instructions...
+<seg id="7">	They will test your will.
+<seg id="8">	They will test your endurance.
+<seg id="9">	They will test your mental stability.
+<seg id="10">	And they will test your sailor vocabulary.
+<seg id="11">	They are AWFUL.
+<seg id="12">	They do not come in steps and they do not show you which piece to do first, they just show you pieces of the desk assembled.
+<seg id="13">	And the pencil tray is a joke, my fiancé's dad is going to help me build something different for the pencil tray (I use it to hold my jigsaw puzzles in place).
+<seg id="14">	If you get this, the desk is great, assembled.
+<seg id="15">	If you get it unassembled, God speed.
+</doc>	
+	
+<doc	https://www.amazon.com/Lena-Menstrual-Cup-Alternative-Turquoise/product-reviews/B01FV0N9BK/ref=cm_cr_getr_d_paging_btm_next_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+<seg id="1">	Kristina Parsons
+<seg id="2">	The most perfect defense I never knew existed.
+<seg id="3">	Reviewed in the United States on March 27, 2020
+<seg id="4">	I rarely review anything, ever, but this product deserves a review.
+<seg id="5">	I have to mention today is my first day trying out a cup, ever.
+<seg id="6">	I also want to warn you this post may be full of TMI but it is definitely need to know.
+<seg id="7">	So, I want to start out by commenting on my 4 star rating on "easy to remove".
+<seg id="8">	I have an exceptionally deep cervix.
+<seg id="9">	It goes back at least 5 inches.
+<seg id="10">	And it tends to suck everything up.
+<seg id="11">	I can't tell you how grateful I am tampons typically have a long string on them.
+<seg id="12">	Well... I read the reviews, I thought I knew, but even they did not prepare me for the experience that was trying to remove this cup for the first time.
+<seg id="13">	I put my foot on the tub, adjusted my hips, went down into a deep squat, did nearly everything I could think of and I could barely feel the tip of the tag (I had not cut it).
+<seg id="14">	I was so worried.
+<seg id="15">	Maybe this thing isn't for me.
+<seg id="16">	Maybe I just wasted my money.
+<seg id="17">	Would my wife have to help me get it out?!
+<seg id="18">	How could people possibly grab the cup itself to pinch it to remove it??
+<seg id="19">	But then I remembered, someone mentioned relaxing and focusing on pushing ... so that's what I did.
+<seg id="20">	I took a long deep breath through my nose and gently breathed out, closed my eyes, and focused.
+<seg id="21">	And it worked.
+<seg id="22">	I cannot tell you how exhilarating it was to finally grab the cup and once I had ahold of it, I simply pinched the bottom and it came out without a single issue.
+<seg id="23">	The process to get there was a journey.
+<seg id="24">	I was amazed at my body.
+<seg id="25">	I felt powerful.
+<seg id="26">	But most of all I was so grateful.
+<seg id="27">	It meant I could keep wearing my cup.
+<seg id="28">	My periods are the type you hear about and don't want.
+<seg id="29">	The first three days of the attack of the red army are brutal.
+<seg id="30">	My cramps are so bad I can barely walk.
+<seg id="31">	I fill a super plus tampon in two hours - if I dare risk the extra pain to wear one.
+<seg id="32">	If I wear a pad, I have to wear the extra long overnights with wings and even then I risk overflowing the back and front within four hours.
+<seg id="33">	Every night of my period for the last 8 years (at least) I wake up half way through the night just to go to the bathroom so I don't wake up to a massacre.
+<seg id="34">	I don't cuddle on the couch with my wife without fear of ruining our couch.
+<seg id="35">	Working out was only possible if I wore both a pad and tampon.
+<seg id="36">	And I take a bathroom break at work every 2 hours, and even then I have had accidents at work.
+<seg id="37">	Now that you know the backstory, you can probably understand why I wanted this to work.
+<seg id="38">	I wanted so badly.
+<seg id="39">	And as of today, I am converted.
+<seg id="40">	I am so happy I am in tears.
+<seg id="41">	It took about 15 minutes to figure out how to put it in properly.
+<seg id="42">	I had to relax to get it to pop open and suction properly, but after I figured that out I was good to go.
+<seg id="43">	I put it in this morning at 9 am at the firat signs of the red army beginning her march and to be honest by 5 pm I was worried I jumped the gun.
+<seg id="44">	I hadn't seen a single drop of blood.
+<seg id="45">	I went pee multiple times and had multiple BMs (a symptom of my periods), lounged around on chairs, and generally behaved as if I wasn't on my period.
+<seg id="46">	So it hits 9 PM and I decide I should finally be brave enough to try to take it out.
+<seg id="47">	Queue scene above... Low and behold it worked!
+<seg id="48">	The red army had definitely hit.
+<seg id="49">	And I finally found the perfect defense.
+<seg id="50">	Tomorrow, I am going to try to workout.
+<seg id="51">	But for tonight, I'm going to cuddle with my wife on the couch!
+<seg id="52">	Who ever you are, give this a try.
+<seg id="53">	For whatever your reason.
+<seg id="54">	Just give it a try.
+</doc>	
+	
+<doc	https://www.amazon.com/Lena-Menstrual-Cup-Alternative-Turquoise/product-reviews/B01FV0N9BK/ref=cm_cr_getr_d_paging_btm_next_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+<seg id="1">	Ari K - Uncomfortable
+<seg id="2">	Reviewed in the United States on October 23, 2018
+<seg id="3">	This was my first cup so i'm not sure what it's supposed to be like but i really wanted to like this cup.
+<seg id="4">	It gave me a quite a bit of grief.
+<seg id="5">	It's VERY stiff.
+<seg id="6">	I can't believe there are cups on the market that are stiffer than this.
+<seg id="7">	Very hard to remove.
+<seg id="8">	I've since bought a softer cup and it's much easier to remove and insert.
+<seg id="9">	This cup is so stiff it's a challenge to keep punched down while inserting.
+<seg id="10">	Like it hurts my fingers.
+<seg id="11">	Once it's in there were no leaks or anything but if i suddenly had to poop it was a nightmare.
+<seg id="12">	I cant poo with it in because the pressure is SO strong, but trying to remove it in that situation was very stressful.
+<seg id="13">	I'm very in touch with my body and have no issue reaching inside to adjust ect but this was SO hard to manage.
+<seg id="14">	The thing is do not have weak walls at all nor am i especially narrow nor does my cervix hang lower than what is normal.
+<seg id="15">	So i can't imagine how this is so popular when many women are more petite and sensitive than me in that respect.
+<seg id="16">	The pressure is VERY strong for me.
+<seg id="17">	It made it hard to pee too.
+<seg id="18">	I did a bunch of research before settling on this one.
+<seg id="19">	This seems like it's for someone with the most powerful walls and a high cervix... and strong hands.
+<seg id="20">	The first time i tried it it got suctioned to my cervix.
+<seg id="21">	No matter how hard i squeeze the base it would not release and got tighter and tighter around my cervix.
+<seg id="22">	I don't know how i finally got it off.
+<seg id="23">	I made the holes bigger and that made removal easier but just barely.
+<seg id="24">	I cannot recommend this.
+<seg id="25">	I gave two stars because it seems like good quality but i'm astounded it's so popular.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/RIUC6O24JPWTV/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B008JBF1H4
+<seg id="1">	Torii Marie
+<seg id="2">	Winx Club Winx Girl Power!
+<seg id="3">	Reviewed in the United States on December 23, 2012
+<seg id="4">	My six year old is in love with the Winx!
+<seg id="5">	Believix, Enchantix, all those other ix's, she just can't get enough!
+<seg id="6">	I bought her this dvd for her birthday, mainly because it was not only a full length movie, but it has 7 bonus episodes from the series!
+<seg id="7">	Not only does she like to watch it and have her Winx dolls act out what the characters are doing in the movie, but she'll just lay and watch it before bed as well.
+<seg id="8">	Highly recommended.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R1VURFY0Y8FBRQ/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B07P5KM61W
+<seg id="1">	Mia Miao
+<seg id="2">	So glad I watched it again
+<seg id="3">	Reviewed in the United States on November 20, 2016
+<seg id="4">	So much fun that Prime is streaming a teen favorite of mine.
+<seg id="5">	Loved it as a kid, haven't seen it in years and now it is here and so much cheesy fun.
+<seg id="6">	The musical bits are dated but they don't take away from the lighthearted movie at all.
+<seg id="7">	The romance is sweet and I can see why I loved it as a kid, it has depth for such a simple movie.
+<seg id="8">	Heartfelt and fun with a great message that the "magic" is inside you when you believe in yourself.
+<seg id="9">	Watch the movie Teen Witch!
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R38JA4TAKJW4VI/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B01BT3SCUG
+<seg id="1">	Alessia M.
+<seg id="2">	If....
+<seg id="3">	Reviewed in the United States on August 20, 2018
+<seg id="4">	You need an attention span and a brain in your skull to enjoy this movie.
+<seg id="5">	This movie is what is referred to as a 'slow burn'.
+<seg id="6">	That means no jump scares.
+<seg id="7">	No basic cheap garbage.
+<seg id="8">	This story builds tension and unease and is a deeply historical psychological thriller.
+<seg id="9">	If you have the capacity to be haunted by a film, this will haunt you.
+<seg id="10">	If you are easily bored and need formulaic gore every 15min, you're not the intended audience.
+<seg id="11">	If this review sounds bitter, it's because I am.
+<seg id="12">	If this movie had come out in the 70's, it would have been heralded as a masterpiece.
+<seg id="13">	If you have any experience with 17th century New England history or folklore, you will notice how closely this follows the paranoia and morbidity of the puritans.
+<seg id="14">	This doesn't talk down to the audience or hold your hand through the plot.
+<seg id="15">	This movie expects more of it's audience and does not pander to the lowest common denominator.
+<seg id="16">	This movie is what horror buffs wait for, something crafted with care and intent that builds into a creepy world where the devil is always out to get you.
+<seg id="17">	This movie takes the most disturbing aspects and stories from historic New England and weaves them into a cohesive tale of damnation.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R127C8MOE3MVQR/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B01KZS8S0U
+<seg id="1">	Wow.
+<seg id="2">	Reviewed in the United States on January 10, 2020
+<seg id="3">	Awww they thought they were about to rob that man but he said “NOT on my watch” Lol
+<seg id="4">	Great movie.
+<seg id="5">	I love the plot.
+<seg id="6">	It’s like, I don’t blame the old man.
+<seg id="7">	I mean, he was LITERALLY minding his business.
+<seg id="8">	First someone kills his kid - then someone tries to rob his home.
+<seg id="9">	His last piece of sanity was done with.
+<seg id="10">	That ninja snapped.
+<seg id="11">	People can not feel as if they can come into someone’s home and steal.
+<seg id="12">	Period.
+<seg id="13">	That is so violating.
+<seg id="14">	Many people have died being robbed in their OWN home which is so sad.
+<seg id="15">	I don’t know about anyone else, but I’m going to protect my home and the people I love by any means necessary.
+</doc>	
+	
+<doc	https://www.amazon.com/gp/customer-reviews/R3RUGKV7A16W92/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&ASIN=B016BETPZY
+<seg id="1">	Kenya
+<seg id="2">	Naruto and Hinata forever 💚
+<seg id="3">	Reviewed in the United States on October 27, 2018
+<seg id="4">	I’ve rewatched this movie over and over again because Naruto and Hinata are my favorite ship.
+<seg id="5">	I had to buy this movie and I’m glad I did.
+<seg id="6">	It is a available as both English dub and Sub.
+<seg id="7">	I watched the English sub version because I felt like the Japanese voice actors have more range in their vocal chords especially when it comes to the fight scenes.
+<seg id="8">	The animation was beautiful.
+<seg id="9">	Have I mentioned that I’ve watched this over 30 times?
+<seg id="10">	No?
+<seg id="11">	That’s because this movie is just that great.
+<seg id="12">	It had a good balance of action and romance
+</doc>	
+	
+<doc	https://www.tripadvisor.ie/ShowUserReviews-g226865-d189258-r560784966-Disneyland_Paris-Marne_la_Vallee_Seine_et_Marne_Ile_de_France.html#REVIEWS
+<seg id="1">	Sarah R
+<seg id="2">	Disappointed
+<seg id="3">	We've visited Disneyland Paris this weekend (19-20/3) as a gift for our 2 daughters' communion.
+<seg id="4">	They were very excited in advance, especially about visiting all the attractions they didn't know before.
+<seg id="5">	The first impression of Disneyland Paris is WOW, but then ...
+<seg id="6">	1) Even in march (which is supposed to be low season), the queues are long.
+<seg id="7">	Very long.
+<seg id="8">	Waiting times of about 1h are no exception.
+<seg id="9">	Is this supposed to be a child-friendly park?
+<seg id="10">	Our kids are 6 & 7 years old.
+<seg id="11">	We can't expect of kids of that age to wait almost an hour for an attractation of 2 minutes pleasure.
+<seg id="12">	Unless you have enough money to buy a special ticket so you can bypass the waiting scum.
+<seg id="13">	It's all about the money?
+<seg id="14">	Yes it is!
+<seg id="15">	Even in a park that is build around fairy tales... difficult to explain to kids why people with more money don't have to wait.
+<seg id="16">	2) Toilets !
+<seg id="17">	The toilets are filth.
+<seg id="18">	On the men's toilets there was no toilet seat without pee on.
+<seg id="19">	Beside that, almost 50% of the urinals were clogged.
+<seg id="20">	It is not that there's not enough staff in the park.
+<seg id="21">	At some moments it reminded me of my trip to Cuba.
+<seg id="22">	On one of the touristic train stops, I counted 9 employees.
+<seg id="23">	They were talking to each other and laughing and waiting for the train to arrive.
+<seg id="24">	3) One advice: bring your own food & drinks.
+<seg id="25">	It is really too expensive in the park.
+<seg id="26">	4) A lot of attractions were closed for renovation.
+<seg id="27">	Why my review is so negative?
+<seg id="28">	Because I couldn't let go the feeling that making money was more important than providing an ultimate experience to our kids.
+<seg id="29">	And I know, this is the ambition of every park, but as a customer I don't want to get the feeling.
+<seg id="30">	There are surely not only negative points.
+<seg id="31">	First of all, the decors are really beautiful.
+<seg id="32">	It must have costed a fortune to build them.
+<seg id="33">	It is really nice.
+<seg id="34">	And the staff is in general very friendly and helpful.
+<seg id="35">	The Streets are quite tidy and there are more then enough dustbins.
+</doc>	
+	
+<doc	- made up of a few reviews: https://www.tripadvisor.ie/Attraction_Review-g187147-d188679-Reviews-or23210-Cathedrale_Notre_Dame_de_Paris-Paris_Ile_de_France.html#REVIEWS
+<seg id="1">	CarrieParis
+<seg id="2">	THE GREAT ORGAN
+<seg id="3">	Paris, one automatically thinks of the Eiffel Tower...one should think twice!
+<seg id="4">	Whilst I visited the Eiffel Tower...
+<seg id="5">	I did have my picture taken with it (as is obligatory I'm sure all would agree).
+<seg id="6">	It was in my opinion rather unremarkable other than its fame.
+<seg id="7">	For me, the absolute sole attraction of Paris was Notre Dame and I hadn't even realised it.
+<seg id="8">	I am generally a light and airy kinda girl and didn't think that a cathedral that was hailed as gothic would inspire me very much...however, I was so, very wrong.
+<seg id="9">	It is stunning, inside and out.
+<seg id="10">	The scale of it was very powerful!
+<seg id="11">	And the architecture was spectacular!
+<seg id="12">	I was amazed by the detail and the sheer feeling it gave off!
+<seg id="13">	Inside it is as most Cathedrals are, full of beautiful, dominating sculptures, paintings of Jesus and religious scenes.
+<seg id="14">	However, this Cathedral, this beautiful, gothic Cathedral simply has an even more powerful hold on your imagination and attention.
+<seg id="15">	It was eery, yet strangely comforting at the same time.
+<seg id="16">	I was spooked a couple of times and yet found a strong spiritual bond with it and one might say with God within the building.
+<seg id="17">	I am a Christian, but feel that regardless of my personal beliefs, this building possesses a unique ability to bring about a feeling to anyone of unity with oneself with their surroundings and those around them.
+<seg id="18">	While attending a mass at 1000 on Sunday the choir and organ were in fine tune.
+<seg id="19">	The massive organ fills the space and adds to the romance!
+<seg id="20">	Really unbelievable that there were people trying to take pictures in mass.
+<seg id="21">	I would strongly recommend that you visit it and I hope that you get as much out of the experience as I did.
+<seg id="22">	If and/or when I visit Paris again, I would love to visit the Notre Dame again.
+<seg id="23">	It is for sure a must see in Paris.
+</doc>	
+	
+<doc	https://www.tripadvisor.ie/ShowUserReviews-g294212-d325811-r332019459-Mutianyu_Great_Wall-Beijing.html?m=19905
+<seg id="1">	No Wonder it is a Wonder
+<seg id="2">	Nipun J
+<seg id="3">	Yes, indeed, no wonder The Great Wall of China is a one of manmade wonders of the world.
+<seg id="4">	It is spectacular and also tiring.
+<seg id="5">	You see I am a lazy bum, and it was the first thing things to see in our to-do list for China (obviously).
+<seg id="6">	Not just because of its reputation etc but I am also glad we did it when we had all the energy for it.
+<seg id="7">	You go about 45-50 miles (I do not remember exactly what was the distance) off Beijing to do Mutianyu section.
+<seg id="8">	We were a group of 4 friends and we took a cab for the whole day for RMB 1000 and we took approximately 2 hours or so to get there from Wangfujing.
+<seg id="9">	We paid approx RMB 155 per person all inclusive i.e entrance fee plus bus ride to the cable car plus the cable car itself.
+<seg id="10">	So it cost us RMB 405 per person from our hotel to visit the wall.
+<seg id="11">	Now about the wall itself.
+<seg id="12">	Mutianyu is the longest fully-restored Great Wall section open to tourists.
+<seg id="13">	There are 23 watchtowers, about one every hundred meters on an ascending mountain ridge and I mean really they are STEEP no S***!
+<seg id="14">	Pardon my language but damn most of us were tired in just covering 5 of those.
+<seg id="15">	Both sides of the wall have a crenellated parapet so that soldiers could fire arrows at enemy at both sides.
+<seg id="16">	This is very rare on other sections of wall.
+<seg id="17">	The Great Wall at Mutianyu is less crowded and has better architecture than at Badaling (we did not visit Badging but I am simply quoting what we read on various sites and many guides said), with more watchtowers.
+<seg id="18">	The cable cars help you get to the wall (thank god for that).
+<seg id="19">	The cable car station is in the middle of the wall close to tower 14.
+<seg id="20">	We walked west from tower 14 to tower 23, and got to see the most beautiful scenery.
+<seg id="21">	The path up goes to tower 8 or 10, which means you will need to walk an extra kilometer (half mile) on wall with comparatively plain scenery to get to the best part.
+<seg id="22">	There are about 4000+ steps at Mutianyu so be ready physically and mentally.
+<seg id="23">	The steps are very uneven in many places, so mind your steps else you have a very nasty fall.
+<seg id="24">	We went in mid Nov so take it from me, you are better off in good cross trainers than boots.
+<seg id="25">	You will not feel cold after all that walking.
+<seg id="26">	Most of us came back from the wall in just t-shirts despite the cold because we were sweating profusely.
+<seg id="27">	We arrived Mutianyu early afternoon when most morning tour groups had gone, which was great.
+<seg id="28">	Oh and last but not the least there are a few restaurants at the place where you pay the fees etc before you start your ascend and also the same place you descend to grab a meal.
+<seg id="29">	They had some pan cake places too so it does have more than just Chinese menu.
+<seg id="30">	I highly recommend a visit to The Great Wall Mutianyu section in afternoon with those sturdy and comfortable pair of shoes, a big bottle of water, lot of time and energy and yes a good camera would be nice to try and capture the real beauty of this place.
+</doc>
