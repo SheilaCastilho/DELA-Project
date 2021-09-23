@@ -8,17 +8,12 @@ The corpus is segmented by sentence (checked mannually). The issues tagged here 
 
 The issues tagged are:
 
-Ellipsis
-
-Gender
-
-Lexical ambiguity
-
-Number
-
-Reference
-
-Terminology
+  - Ellipsis
+  - Gender
+  - Lexical ambiguity
+  - Number
+  - Reference
+  - Terminology
 
 
 The annotation was performed for each sentence, which are tagged one per line, in the order they appear in the sentence, followed by their explanation/solution, along with modifications performed in the source (if any) and translations of some cases and notes. 
