@@ -1,0 +1,767 @@
+<doc	Fanfiction - Harmonic Resonances - Link: https://archiveofourown.org/works/26524723/chapters/64650841 >		
+<seg id="1">	Harmonic Resonances	X	X
+<seg id="2">	Tamoline	X	X
+<seg id="3">	Summary: Months had passed and Carrie was still missing Sue, despite the regular phone calls.	X	X
+<seg id="4">	But things were changing, things always change, and rarely in the ways that you expect.	X	X
+<seg id="5">	Chapter 1	X	X
+<seg id="6">	Carrie stood awkwardly in the corner of the bar, shifting from foot to foot, letting the noise of the crowd wash over her.	X	X
+<seg id="7">	The smell of cigarette smoke and alcohol was so thick in the air she could almost swallow it.	X	X
+<seg id="8">	“You sure I can’t get you a drink?” a bearded man shouted at her, his words slurring, the scent of hops getting even stronger.	X	X
+<seg id="9">	She averted her eyes and shook her head.	X	X
+<seg id="10">	“No thanks,” she murmured, but she doubted he could hear her over the background babble.	X	X
+<seg id="11">	She jumped a little as he reached forwards and hugged her tightly.	X	X
+<seg id="12">	“Thank you for finding Ben,” he said into her ear.	X	X
+<seg id="13">	“If there’s anything — anything — I can ever do for you, you just let me know.”	X	X
+<seg id="14">	It was… She hugged him back stiffly, grateful despite herself when he stepped away.
+<seg id="15">	This was what she’d wanted, way back when, wasn’t it?	X	X
+<seg id="16">	Wanting to be known, to be appreciated.	gender known=feminine gender	appreciated=feminine
+<seg id="17">	It was just that it could all get a bit overwhelming after a while, especially with so many people focussing on her, coming up and talking to her, wanting something from her that she couldn’t help feeling that she might not be up to.	X	X
+<seg id="18">	It was easier when Chris was at her side.	X	X
+<seg id="19">	But Carrie was hardly going to tie Chris to her apron strings when there was a party to be enjoyed, free alcohol to be had…	lexical ambiguity tied to her apron strings=to tie someone to her apron vs to have someone under her control
+<seg id="20">	Men to be flirted with, she couldn’t help noting sourly, seeing Chris seemingly being courted by not just one but two guys.	gender  Chris=feminine gender	courted=feminine
+<seg id="21">	She certainly seemed to be enjoying herself.	X	X
+<seg id="22">	Not that it was any of Carrie’s business, of course.	X	X
+<seg id="23">	She’d had enough for the night, she abruptly decided.	lexical ambiguity	she'd had enough=satiated vs tired
+<seg id="24">	This might have been a really nice day, a day when they’d managed to do some unalloyed good, but...	gender  they=feminine	lexical ambiguity	unalloyed good=single/separate vs pure good deeds
+<seg id="25">	It could be over now, at least for her.	X	X
+<seg id="26">	She made a little wave in Chris’ direction, for politeness’ sake.	lexical ambiguity	wave=sea wave vs a little gesture
+<seg id="27">	No matter that she probably didn’t see, probably wouldn’t have cared about the gesture one way or another even if she had, and slid out of the bar.	lexical ambiguity	slid out=slip vs to exit 
+<seg id="28">	A blast of fresh, clean air greeted her and she stood there for a moment, looking at the lights of the town, at the darkness of the night sky dotted with stars above it, the noise of the celebration muted behind her.
+<seg id="29">	She waited for a few minutes longer, but nothing happened, no one followed her, so she made her way back to the motel they were staying at.	gender  they=feminine	gender	were staying at=feminine 
+<seg id="30">	Though it didn’t seem unlikely she’d be spending the night there alone.	X	X
+<seg id="31">	Not that it mattered.	X	X
+<seg id="32">	It wasn’t as if she wanted Chris all to herself.	X	X
+<seg id="33">	But a little part of her, maybe.	X	X
+<seg id="34">	At least she’d be the one Chris would leave with in the morning.	X	X
+<seg id="35">	She couldn’t help wondering what Momma would think of her now.	X	X
+<seg id="36">	Whether what good she’d managed to do would go some way to counteract all the sins she’d perpetrated.	X	X
+<seg id="37">	All the sins that she’d committed in her heart, which Momma would have said were just as grave as the ones she’d actually birthed into the world.	X	X
+<seg id="38">	She… more and more, she just didn’t know what to believe, just hoped whatever was looking down on her could find some measure of grace in its heart for her.	X	X
+<seg id="39">	She crouched beside the bed, laid her crosses carefully on the sheets.	X	X
+<seg id="40">	She prayed on it.	reference	it=bed	gender	it=feminine
+<seg id="41">	Prayed for herself, prayed for Chris who she was sure didn’t think she needed it, prayed for Sue who Carrie couldn’t help worrying thought that she didn’t deserve it.	X	X
+<seg id="42">	In the end, she prayed for them.	gender	them=feminine
+<seg id="43">	"I was praying for you.	number	you=plural
+<seg id="44">	Chris and Sue."	X	X
+<seg id="45">	Prayed for Momma, all those long miles back in Chamberlain, a wish that she was doing well and maybe, maybe had found some measure of joy in her life that had always seemed to be absent for as long as she’d had Carrie hanging around her neck.	lexical ambiguity	measure of joy=measure of joy (literal translation) vs a bit of happiness
+<seg id="46">	She jumped as the motel room door clicked behind her.	X	X
+<seg id="47">	It shut.	reference	it=door	gender	it  door=feminine
+<seg id="48">	She’d been so lost in prayer.	X	X
+<seg id="49">	She hadn’t even noticed it open.	reference	it=door	gender	it(door)=feminine
+<seg id="50">	“I can leave again if you’d prefer.	X	X
+<seg id="51">	If you want some more time to… do all that in peace,” Chris said from behind her.	X	X
+<seg id="52">	“No, it’s alright,” she said, quickly gathering them up, wrapping them in the towel in which she kept them and laying it carefully back in her bag.	reference	them=crosses	gender	them(crosses)=feminine
+<seg id="53">	She turned around to see Chris propped up against the wall, a smirk on her face that was slightly soft around the edges.	gender	propped up=feminine 
+<seg id="54">	Or maybe she was just more drunk than Carrie had thought.	X	X
+<seg id="55">	“I’m surprised to see you back so early.”	gender	surprised=feminine
+<seg id="56">	Or at all, she couldn’t help thinking.	ellipsis	or=you to be back 
+<seg id="57">	If any of that made it into her voice, Chris didn’t seem to notice as she shrugged and said, “Just wanted to make sure you were okay.”	ellipsis	that=the thinking of i'm suprised youa re back at all
+<seg id="58">	Or if Chris had, she ignored it.	ellipsis	had=noticed	reference	it=the thinking of i'm suprised you are back at all that made to carrie's voice
+<seg id="59">	Which was, if still not completely typical for them, not something that had come to be unusual in their post-Sue truce.	gender  them=feminine	gender	their=feminine
+<seg id="60">	Covering over the little things that might cause tension between them; not reacting to every little thing as if it might be a mortal insult.	gender	them=feminine
+<seg id="61">	And it really wasn’t Chris’ fault that Carrie was feeling… prickly tonight.	gender  Chris' fault=feminine
+<seg id="62">	Not that she was really even feeling that anymore, a warm feeling flooding her chest at the surprisingly unguarded look of care on Chris’ face.	X	X
+<seg id="63">	“I’m fine,” Carrie said, smiling up at her, then got to her feet.	X	X
+<seg id="64">	“Just got a little much for me.	lexical ambiguity	got a little much for me=get much of something (literal translation) vs got overwhelming for me
+<seg id="65">	All the crowd and attention, you know?”	X	X
+<seg id="66">	Chris pushed off the wall and sauntered closer, before hesitating and coming to a halt a few feet away.	lexical ambiguity	pushed off the wall=push the wall vs stopped leaning against the wall
+<seg id="67">	“Does it help?	X	X
+<seg id="68">	The praying?	X	X
+<seg id="69">	Do you think that your…” she waved in the air before pointing upwards.	X	X
+<seg id="70">	“Comes from up there?”	X	X
+<seg id="71">	Carrie pressed her lips together and searched Chris’ face for any hint of mockery.	X	X
+<seg id="72">	The situation between them had been a lot better since the knife murders, but she couldn’t help the instinctive worry.	gender	them=feminine
+<seg id="73">	But there seemed to be nothing there but honest curiosity.	X	X
+<seg id="74">	Carrie couldn’t help letting her eyes drift down a degree to focus on Chris’ lips.	X	X
+<seg id="75">	Her lipstick was barely smudged.	X	X
+<seg id="76">	Not that it meant anything, of course, but Carrie couldn’t help feeling a bit better anyway.	X	X
+<seg id="77">	Not that there was a reason for her to feel that way either, and even acknowledging that much made guilt twist in her stomach.	X	X
+<seg id="78">	Chris was Sue’s and whoever else she chose, but not Carrie’s, not in any way.	X	X
+<seg id="79">	And Carrie was Sue’s in any case.	X	X
+<seg id="80">	She had no right to feel anything about what Chris did, and she couldn’t let herself think otherwise.	X	X
+<seg id="81">	Realising that she’d just sat there staring for far too long, she flushed, doubtless ugly and blotchy, and did her best to remember what Chris had asked her.	lexical ambiguity	she flushed=she flushed the toilet vase vs she felt embarassed/she blushed
+<seg id="82">	“Talking to Him, confessing my sins, does make me feel better.	X	X
+<seg id="83">	And if He did create everything, then he also must have created me, and there has to be a reason for my powers.	X	X
+<seg id="84">	It… it helps me carry on, despite, y’know, things.”	X	X
+<seg id="85">	Things like how they had to continually keep on the move, keeping one eye over their shoulder just in case the government caught up with them again.  gender	them=feminine	gender	they=feminine
+<seg id="86">	Chris scuffed the floor with one foot, looking down.	X	X
+<seg id="87">	“Would you mind if I joined you just this once?	X	X
+<seg id="88">	Just to try things out?”	X	X
+<seg id="89">	Carrie stared at her, but Chris didn’t seem to be mocking her.	X	X
+<seg id="90">	“Sure,” she said, taking her things out again and scuttling over to make room.	X	X
+<seg id="91">	As Chris knelt down next to her, she couldn’t help being acutely aware that this was what Sue had used to do with her, back before she left.	X	X
+<seg id="92">	Back in the days when it sometimes felt like stifled anger and jealousy might rise up and crush her sometimes.	X	X
+<seg id="93">	Back when Chris’ presence on their eternal road trip seemed like the bane of her life.	X	X
+<seg id="94">	It didn’t feel like that any more.	X	X
+<seg id="95">	She knelt in front of her bed and laced her fingers together, lowering her head.	lexical ambiguity	laced her fingers=strapped with a thread vs held together
+<seg id="96">	Out of the corner of her eyes, she saw Chris follow suit.	X	X
+<seg id="97">	Silently, she prayed that Chris find whatever peace she sought, asking the Lord to reach out to her and, well.	X	X
+<seg id="98">	She was sure that the Bible — or at least her mother — would have had things to say about the way that Chris lived her life, but she wasn’t hurting anyone these days and honestly tried her best to help people, and wasn’t that more important anyway?	X	X
+<seg id="99">	It seemed like it should be.	X	X
+<seg id="100">	She opened her eyes a few minutes later and looked at Chris, which seemed the signal Chris had been looking for to do the same.	X	X
+<seg id="101">	“Did it help?” Carrie asked.	reference	it=praying
+<seg id="102">	“I don’t know.	X	X
+<seg id="103">	Maybe?”	X	X
+<seg id="104">	She hesitated for a moment.	X	X
+<seg id="105">	“Not sure it’s my kind of thing in general, but I don’t think it hurt.	lexical ambiguity	hurt=bruise vs damage mentally
+<seg id="106">	This time at least.”	X	X
+<seg id="107">	She rolled easily to her feet and offered Carrie a hand.	X	X
+<seg id="108">	“Thanks, I guess.”	gender	thank you=feminine
+<seg id="109">	Carrie took her hand and pulled herself up, a strange humming energy under her skin as she did so.	X	X
+<seg id="110">	This had been something she’d only shared with Sue before, and she’d never been quite certain how much Sue was humouring her the times when she’d joined her.	X	X
+<seg id="111">	Not that she thought Sue would lie to her, but… she’d been afraid to ask, to prod further, in case she got an answer she didn’t like.	X	X
+<seg id="112">	This, with Chris… well, she couldn’t pretend that it was anything other than what it was:	X	X
+<seg id="113">	Chris trying on faith to see if it fit.	lexical ambiguity	trying on faith=try and fail vs experiment
+<seg id="114">	But she also couldn’t say it was anything other than completely honest.	X	X
+<seg id="115">	“Thanks,” she said, a warm sticky gratitude welling up inside her.
+<seg id="116">	It really shouldn’t affect her as much as it did, but…	X	X
+<seg id="117">	“No problem,” Chris drawled, a half smile on her lips that seemed too real for Chris’ usual studied cynicism, her eyes dark and knowing this close.	X	X
+<seg id="118">	Near enough that Carrie could feel the breath wash against her face, could smell the beer on it, something that shouldn’t be enticing, but…	X	X
+<seg id="119">	She had the sudden impulse to tilt forwards and kiss Chris, to muss that lipstick, smear it over her face.	X	X
+<seg id="120">	To do the things that she’d been worried Chris would do at the bar.	X	X
+<seg id="121">	She couldn’t be there any longer, she shouldn’t.	X	X
+<seg id="122">	Jesus would be so disappointed in her.	X	X
+<seg id="123">	She ducked down again, away from Chris, gathering up her crosses and holy objects and starting to stow them away.	lexical ambiguity	stow=ide vs store
+<seg id="124">	She dawdled while packing them away until she heard Chris move away, and she wasn’t sure whether or not she was disappointed by that.	X	X
+<seg id="125">	She wasn’t, she told herself fiercely.	ellipsis	wasn't=she was not disappointed	lexical ambiguiy	was=inherent vs transitory
+<seg id="126">	She wasn’t disappointed at all.	X	X
+<seg id="127">	Still, sleep took a long time to arrive that night and Sue seemed further away than ever.	X	X
+<seg id="128">	“It still seems a little unreal having each day be so much like the last.	X	X
+<seg id="129">	Well, apart from my days off and I always seem to have more than enough to do then as well.”	X	X
+<seg id="130">	Sue’s voice crackles electronically, the hum of countless miles making it hard to pretend that she’s there with Carrie, even with eyes screwed shut and Carrie doing her best to send her imagination into overdrive.	X	X
+<seg id="131">	These weekly calls always made her feel a little melancholy, though she’d never mention that.	X	X
+<seg id="132">	Certainly not to Sue.	X	X
+<seg id="133">	“But you’re doing better now?	lexical ambiguity	doing better=make better vs get along better
+<seg id="134">	Sleeping the night through?”	X	X
+<seg id="135">	Sue sighed, though it sounded fond.	X	X
+<seg id="136">	Carrie hoped.	X	X
+<seg id="137">	“You don’t need to worry about me so much.”	X	X
+<seg id="138">	I really do, was Carrie’s first thought.	ellipsis do=worry about Sue lexical ambiguity	do=make vs worry
+<seg id="139">	You’re half my world.	X	X
+<seg id="140">	But that was a bad thought, part of why Sue had left them behind.	gender	them=feminine
+<seg id="141">	Carrie had put so much on her that she’d needed to get away.	lexical ambiguity	put so much on her=bet on vs smother/burden
+<seg id="142">	It made Carrie worry if she had learned too well from Momma that way, making someone so much the centre of her world that they could suffocate from the weight of it, the way she’d sometimes felt about Momma.	X	X
+<seg id="143">	“I’ll try not to,” she replied lamely, worrying that she was doing something bad again.	ellipsis	try no to=try not to worry about Sue
+<seg id="144">	It was such a balancing act, trying to avoid the pitfalls that everyone else seemed to navigate so easily.	X	X
+<seg id="145">	She tried to ignore the part of her that wanted to blame Chris and Sue both for the fact that she hadn’t had the chance to learn growing up.	X	X
+<seg id="146">	That was all in the past, and there was no point hanging onto it, however hard it seemed to be to let go at times;	reference	it=blame Chris and Sue
+<seg id="147">	however often it seemed to sneak right back into her pockets when she wasn’t looking.	X	X
+<seg id="148">	“I don’t mind, really,”	X	X
+<seg id="149">	Sue was saying.	X	X
+<seg id="150">	“I might have made some friends here, but none like you or Chris.”	X	X
+<seg id="151">	Friends.	X	X
+<seg id="152">	A new life, one separate from Carrie, one that seemed more and more permanent with every passing week.	X	X
+<seg id="153">	Of course it’d be so easy for Sue, who’d never had to struggle to be accepted.	X	X
+<seg id="154">	But no, it wasn’t fair to think like that.	X	X
+<seg id="155">	Sue deserved the best, even — especially — if that was apart from Carrie.	X	X
+<seg id="156">	“Do you think you’re any closer to figuring things out?” she asked anyway, because she couldn’t not.	X	X
+<seg id="157">	Sue sighed, a harsh crackle over the phone, then was silent for what felt like forever.	X	X
+<seg id="158">	“I don’t know, Carrie, I really don’t know.	X	X
+<seg id="159">	I… when I was with the two of you, there just wasn’t any space to think about what I needed.	gender	two of you=feminine
+<seg id="160">	I’m not saying it was either of your faults, but if it wasn’t Chris sulking or snapping at you, then it was you being too quiet or yelling at her.”	gender	sulking=feminine	gender	snapping=feminine	gender	quiet=feminine
+<seg id="161">	A sharp pang went through her at the thought of causing Sue pain, and she covered the bottom of the phone just in case any stray snuffles made their way out.	X	X
+<seg id="162">	It wasn’t as though she could deny what they’d put Sue through, and she hardly needed to lay any more on Sue’s shoulders.	gender	they=feminine
+<seg id="163">	“We’re better now,” she said quietly when she had control of her voice again.	X	X
+<seg id="164">	“And I’m glad to hear that, truly I am, but…”	gender	glad=feminine
+<seg id="165">	She trailed off again.	X	X
+<seg id="166">	“So, how is Chris, anyway?”	X	X
+<seg id="167">	Chris.	X	X
+<seg id="168">	That was another weighty thought that Carrie was trying to avoid.	X	X
+<seg id="169">	Ever since that night when Chris had joined her for prayer, it seemed even odds as to whether Carrie would flush when looking at her, or stumble over her words for no good reason.	lexical ambiguity	flush=flush a toilet vs blush
+<seg id="170">	It wasn’t like there hadn’t been… moments before, but nothing like this.	X	X
+<seg id="171">	Nothing that she couldn’t ignore.	X	X
+<seg id="172">	She hadn’t done anything wrong, she hadn’t, but she knew, even if no one else did, that the sin of envy, of lust, had taken root in her soul.	X	X
+<seg id="173">	No matter how much she prayed for it to be lifted from her.	reference	it=sin of envy and  lust	 lexical ambiguity	lifted from=move upwards vs removed from
+<seg id="174">	Luckily, Chris hadn’t so much as commented on her new skittishness, for which Carrie was profoundly grateful, though she didn’t know how much longer it could last.	X	X
+<seg id="175">	And the guilt lay heavily upon her, her constant bed companion at night.	X	X
+<seg id="176">	Sue deserved to know, she decided wretchedly, despite having promised herself at least a dozen times beforehand that she would keep as far away from the topic as possible, that she didn’t need to burden Sue with this… nonsense running through her head.	X	X
+<seg id="177">	But she did.	ellipsis	did=burden	lexical ambiguity	Sue did=make vs burden 
+<seg id="178">	She really, really did.	ellipsis	did=burden	lexical ambiguity	Sue did=make vs burden
+<seg id="179">	“I almost kissed Chris a few days ago,” she admitted miserably.	X	X
+<seg id="180">	“Oh,” Sue said.	X	X
+<seg id="181">	Carrie couldn’t see her, couldn’t feel her to see how she was reacting, but her stomach lurched in the following pause, fearing the worst.	X	X
+<seg id="182">	“That’s…” Sue finally said.	X	X
+<seg id="183">	“I thought something might be wrong, but I didn’t think…	X	X
+<seg id="184">	You and Chris are free to do what you want, of course.”	X	X
+<seg id="185">	She didn’t really sound like she meant it though.	X	X
+<seg id="186">	“I didn’t actually do anything.	X	X
+<seg id="187">	And Chris… I don’t think she’s interested in me like that.
+<seg id="188">	It’s just… I’d have felt bad if I didn’t tell you.	X	X
+<seg id="189">	I’m sorry if I hurt you, or I did something wrong.	X	X
+<seg id="190">	I didn’t mean to!”	ellipsis	to=to hurt you or do something wrong
+<seg id="191">	Carrie heard the pitch of her voice rise almost like it was happening to someone else as the gnawing inside her stomach spread to her chest; a fluttering panicking thing.	X	X
+<seg id="192">	Sue’s tone switched immediately to something rhythmic and calming.	X	X
+<seg id="193">	“Of course you didn’t do anything wrong, Carrie.	X	X
+<seg id="194">	Listen to me, you didn’t do anything wrong.”	X	X
+<seg id="195">	Gulping a bit, Carrie let Sue’s voice soothe her.	X	X
+<seg id="196">	“Thank you, Sue.	gender	thank you=feminine
+<seg id="197">	I’m sorry, I didn’t mean to put that on you,” she tried, even as she wasn’t sure how convincing she was.	lexical ambiguity	put that on you=to place that on you vs to burden you with that
+<seg id="198">	As convincing as she felt she should be.	X	X
+<seg id="199">	After all, wasn’t having this kind of load put on her why she had left in the first place?	lexical ambiguity	load=cargo vs burden	lexical ambiguity	put on=to place that on her vs to burden her
+<seg id="200">	“It’s… I know this is difficult for you, Carrie.	X	X
+<seg id="201">	And I’m glad you told me.	gender	glad=feminine
+<seg id="202">	Even if nothing happened, not yet at least.	X	X
+<seg id="203">	It’s… I’m glad you’re getting on with her.”	gender	glad=feminine
+<seg id="204">	But despite Sue’s words, she rang off quickly after that, letting the quarters Carrie had fed into the payphone clatter into the receptacle.	X	X
+<seg id="205">	Carrie wondered if she’d pick up next week at all.	lexical ambiguity	pick up=lift vs answer
+</doc>			
+			
+<doc	https://www.plot-generator.org.uk/ >		
+<seg id="1">	The Deal	X	X
+<seg id="2">	Written by The Researcher	X	X
+<seg id="3">	Mary Jane looked at the peculiar bank through the window and felt a bit anxious.	lexical ambiguity	bank=bank of  ariver vs finacial institution
+<seg id="4">	She had just come from there and decided to grab a coffee while she waited.	X	X
+<seg id="5">	She got distracted with her buzzing surroundings while trying to read a paper.	lexical ambiguity	paper=newspaper/paper vs research paper
+<seg id="6">	She had always loved New York with its buzzing vibe, and old, beautiful buildings, but now the Big Apple had become a place that increased her anxiety.	X	X
+<seg id="7">	She thought about ordering another coffee to try and read the paper again but decided that double caffeine would do her no good.	X	X
+<seg id="8">	Then she saw a familiar figure walking towards the coffee shop.	X	X
+<seg id="9">	It was the figure of Taylor.	reference	it=familiar figure
+<seg id="10">	Taylor was a snooty city councilperson with long legs and arms.	gender	snooty=feminine	gender	councilperson=feminine
+<seg id="11">	"Taylor had become the chair of the council so quickly." - Mary thought.	gender	chair=feminine
+<seg id="12">	Mary gulped.	X	X
+<seg id="13">	Taylor did not look very happy.	gender	happy=feminine
+<seg id="14">	And that peeved face just made Taylor look even more elegant.	gender	elegant=feminine
+<seg id="15">	“Always carrying a nice designer bag --	X	X
+<seg id="16">	and a cigarette between her lips” Mary thought.	X	X
+<seg id="17">	Taylor was carrying what looked like to be a wrapped package.	X	X
+<seg id="18">	Probably a new case for her, Mary was sure of it.	lexical ambiguity	case=process/bag/purse vs phone case
+<seg id="19">	Mary glanced at her own reflection.	X	X
+<seg id="20">	She was not as elegant as Taylor, but she was a friendly person.	X	X
+<seg id="21">	Friendly but with a strong will.	gender	fiendly=feminine
+<seg id="22">	Her friends saw her as a colorful, funny businessperson.	X	X
+<seg id="23">	But she didn't think much of it.	lexical ambiguity	think much of=think about the subject much vs to have a low opinion about it	reference	it=being tcolourful, funny business person. 
+<seg id="24">	She wasn't into bussiness.	X	X
+<seg id="25">	She was a researcher.	X	X
+<seg id="26">	Her research group has been growing and she was the head of it.	lexical ambiguity	head=body part vs leader
+<seg id="27">	At times, she wasn't sure about being the head of the group.	X	X
+<seg id="28">	"For sure I don't have a big one on me?" - she thought.	lexical ambiguity	to have a big one (head) on her=to have a big head vs to be arrogant
+<seg id="29">	But not even a strong willed person like her was prepared for what Taylor had in store today.	lexical ambiguity	had in store=to have in a physical store vs reserved
+<seg id="30">	As Mary stepped outside and Taylor came closer, she could see the wet glint in her eye.	X	X
+<seg id="31">	Mary was appreshensive of what was coming.	X	X
+<seg id="32">	She felt anxious again.	X	X
+<seg id="33">	"Hello Mary," said Taylor with a charming glare that reminded Mary of an elegant giraffe.	X	X
+<seg id="34">	“Hi Taylor”, Mary said, noting that Taylor’s cigarette was unlit.	X	X
+<seg id="35">	"Look, I know it has been tough for you, but I am starting to get a little bit nervous.	gender	nervous=feminine
+<seg id="36">	Where’s the money?"	X	X
+<seg id="37">	Mary looked down to the paper she had been working on for the past few weeks.	lexical ambiguity	paper=newspaper/paper vs research paper
+<seg id="38">	“I’m a researcher, not a politician.” - she thought.
+<seg id="39">	It was time to stop lying to Taylor.	X	X
+<seg id="40">	"Taylor, I went to the bank this morning..." she started.	lexical ambiguity	bank=bank of a river vs finacial institution
+<seg id="41">	"But I… I don't have all the funds ..." she said.	X	X
+<seg id="42">	Taylor glared.	X	X
+<seg id="43">	"Why am I not surprised?"	gender	surprised=feminine
+<seg id="44">	Mary lowered her head.	X	X
+<seg id="45">	Both were in silence for what seemed to be an eternity for Mary.	gender	both=feminine
+<seg id="46">	Taylor opened the bag.	lexical ambiguity	bag=pack vs women's purse
+<seg id="47">	She was looking for a match.	lexical ambiguity	match=pairing couple vs  matchstick 
+<seg id="48">	“Mary, you can’t keep doing this” - said Taylor in a softer voice.	X	X
+<seg id="49">	Mary regarded Taylor's long arms and brown hair.	lexical ambiguity	regarded=considered vs looked at
+<seg id="50">	"How could Taylor be so tall?" - she thought.	gender	tall=feminine
+<seg id="51">	"Give me more time, Taylor"	X	X
+<seg id="52">	"What about your group?" - said Taylor while lighting up her cigarette.	X	X
+<seg id="53">	"I can't take money from the funding!"	X	X
+<seg id="54">	"Why not?	X	X
+<seg id="55">	Aren’t you the head of it!" - Taylor was starting to getting upset again.	lexical ambiguity	head=body part vs leader  reference	it=research group	gender	upset=feminine
+<seg id="56">	Mary reached into her pocket.	X	X
+<seg id="57">	"Here's all I have for now..." - said Mary while handing her a few quids.	X	X
+<seg id="58">	Taylor looked worried.	gender	worried=feminine
+<seg id="59">	"I don't know how much more I can buy, Mary…”	ellipsis	more=time I can buy	lexical ambiguity	time I can buy=purchase time with money vs delay an event temporarily so as to have longer to improve one's own position
+<seg id="60">	"Whatever you can..." - said Mary.	X	X
+<seg id="61">	“We'll figure it out…”	X	X
+<seg id="62">	Taylor let out a long sigh.	X	X
+<seg id="63">	"Happy birthday, Mary" - said Taylot while giving her the present.	X	X
+<seg id="64">	“Thanks...” - said Mary almost in a whisper -	X	X
+<seg id="65">	“And thanks for the phone case.	X	X
+<seg id="66">	I knew you'd remember I needed a new one.	ellipsis	one=case	gender	new=feminine	gender	one=feminine
+<seg id="67">	It’s very nice indeed”.	reference	it=the case  gender	it=feminine	gender	nice=feminine
+<seg id="68">	“How do you know it is a case?”	lexical ambiguity	case=process/bag/purse vs phone case
+<seg id="69">	"You keep complaining my phone is caseless" - said Mary	X	X
+<seg id="70">	They looked at each other and smiled.	gender they=feminine gender	each other=feminine
+<seg id="71">	They have been friends for so long. gender	they=feminine	gender	friends=feminine
+<seg id="72">	Taylor started to walk away leaving Mary lost in thought with her new case.	lexical ambiguity	case=process/bag/purse vs phone case
+<seg id="73">	Taylor was trying to be fair.	gender	fair=feminine
+<seg id="74">	Mary knew that.	X	X
+<seg id="75">	But she could not hold the city council forever.	lexical ambiguity	hold the council=maintain vs delay
+<seg id="76">	And Mary knew that too.	X	X
+</doc>			
+			
+<doc	https://www.gutenberg.org/files/485/485-h/485-h.htm#chap03 >		
+<seg id="1">	The Road to Oz	X	X
+<seg id="2">	3. A Queer Village	lexical ambiguity	queer village=a village full of gays vs a weird village
+<seg id="3">	Button-Bright took the shaggy man's hand willingly; for the shaggy man had the Love Magnet, you know, which was the reason Button-Bright had loved him at once.  	X	X
+<seg id="4">	They started on, with Dorothy on one side, and Toto on the other, the little party trudging along more cheerfully than you might have supposed.	lexical ambiguity	party=group of people vs celebration
+<seg id="5">	The girl was getting used to queer adventures, which interested her very much.	lexical ambiguity	queer adventures=gay adventures vs strange sdventures
+<seg id="6">	Wherever Dorothy went Toto was sure to go, like Mary's little lamb.	X	X
+<seg id="7">	Button-Bright didn't seem a bit afraid or worried because he was lost, and the shaggy man had no home, perhaps, and was as happy in one place as in another.	X	X
+<seg id="8">	Before long they saw ahead of them a fine big arch spanning the road, and when they came nearer they found that the arch was beautifully carved and decorated with rich colors. 	X	X
+<seg id="9">	A row of peacocks with spread tails ran along the top of it, and all the feathers were gorgeously painted.	X	X
+<seg id="10">	In the center was a large fox's head, and the fox wore a shrewd and knowing expression and had large spectacles over its eyes and a small golden crown with shiny points on top of its head.	X	X
+<seg id="11">	While the travelers were looking with curiosity at this beautiful arch there suddenly marched out of it a company of soldiers—only the soldiers were all foxes dressed in uniforms.  	X	X
+<seg id="12">	They wore green jackets and yellow pantaloons, and their little round caps and their high boots were a bright red color.	X	X
+<seg id="13">	Also, there was a big red bow tied about the middle of each long, bushy tail.	X	X
+<seg id="14">	Each soldier was armed with a wooden sword having an edge of sharp teeth set in a row, and the sight of these teeth at first caused Dorothy to shudder.	X	X
+<seg id="15">	A captain marched in front of the company of fox-soldiers, his uniform embroidered with gold braid to make it handsomer than the others.	X	X
+<seg id="16">	Almost before our friends realized it the soldiers had surrounded them on all sides, and the captain was calling out in a harsh voice:	X	X
+<seg id="17">	"Surrender!	number	Surrender=plural
+<seg id="18">	You are our prisoners."	X	X
+<seg id="19">	"What's a pris'ner?" asked Button-Bright.	X	X
+<seg id="20">	"A prisoner is a captive," replied the fox-captain, strutting up and down with much dignity.	X	X
+<seg id="21">	"What's a captive?" asked Button-Bright.	X	X
+<seg id="22">	"You're one," said the captain.	X	X
+<seg id="23">	That made the shaggy man laugh	X	X
+<seg id="24">	"Good afternoon, captain," he said, bowing politely to all the foxes and very low to their commander.	X	X
+<seg id="25">	"I trust you are in good health, and that your families are all well?"	X	X
+<seg id="26">	The fox-captain looked at the shaggy man, and his sharp features grew pleasant and smiling.	X	X
+<seg id="27">	"We're pretty well, thank you, Shaggy Man," said he; and Dorothy knew that the Love Magnet was working and that all the foxes now loved the shaggy man because of it.	X	X
+<seg id="28">	But Toto didn't know this, for he began barking angrily and tried to bite the captain's hairy leg where it showed between his red boots and his yellow pantaloons.	X	X
+<seg id="29">	"Stop, Toto!" cried the little girl, seizing the dog in her arms.	X	X
+<seg id="30">	"These are our friends."	X	X
+<seg id="31">	"Why, so we are!" remarked the captain in tones of astonishment. 	X	X
+<seg id="32">	"I thought at first we were enemies, but it seems you are friends instead.	X	X
+<seg id="33">	You must come with me to see King Dox."	X	X
+<seg id="34">	"Who's he?" asked Button-Bright, with earnest eyes.	X	X
+<seg id="35">	"King Dox of Foxville; the great and wise sovereign who rules over our community."	X	X
+<seg id="36">	"What's sov'rin, and what's c'u'nity?" inquired Button-Bright.	X	X
+<seg id="37">	"Don't ask so many questions, little boy."	X	X
+<seg id="38">	"Why?"	X	X
+<seg id="39">	"Ah, why indeed?" exclaimed the captain, looking at Button-Bright admiringly. 	X	X
+<seg id="40">	"If you don't ask questions you will learn nothing.	X	X
+<seg id="41">	True enough.	X	X
+<seg id="42">	I was wrong.	X	X
+<seg id="43">	You're a very clever little boy, come to think of it—very clever indeed.	X	X
+<seg id="44">	But now, friends, please come with me, for it is my duty to escort you at once to the royal palace."	X	X
+<seg id="45">	The soldiers marched back through the arch again, and with them marched the shaggy man, Dorothy, Toto, and Button-Bright.	X	X
+<seg id="46">	Once through the opening they found a fine, big city spread out before them, all the houses of carved marble in beautiful colors.	X	X
+<seg id="47">	The decorations were mostly birds and other fowl, such as peacocks, pheasants, turkeys, prairie-chickens, ducks, and geese.	X	X
+<seg id="48">	Over each doorway was carved a head representing the fox who lived in that house, this effect being quite pretty and unusual.	X	X
+<seg id="49">	As our friends marched along, some of the foxes came out on the porches and balconies to get a view of the strangers.	X	X
+<seg id="50">	They were all handsomely dressed.	reference	they=the foxes	gender they=feminine	gender	dressed=feminine
+<seg id="51">	The girl-foxes and women-foxes wearing gowns of feathers woven together effectively and colored in bright hues which Dorothy thought were quite artistic and decidedly attractive.	X	X
+<seg id="52">	Button-Bright stared until his eyes were big and round, and he would have stumbled and fallen more than once had not the shaggy man grasped his hand tightly.	X	X
+<seg id="53">	They were all interested, and Toto was so excited he wanted to bark every minute and to chase and fight every fox he caught sight of; but Dorothy held his little wiggling body fast in her arms and commanded him to be good and behave himself.	X	X
+<seg id="54">	So he finally quieted down, like a wise doggy, deciding there were too many foxes in Foxville to fight at one time.	X	X
+<seg id="55">	By-and-by they came to a big square, and in the center of the square stood the royal palace.	X	X
+<seg id="56">	Dorothy knew it at once because it had over its great door the carved head of a fox just like the one she had seen on the arch, and this fox was the only one who wore a golden crown.	X	X
+<seg id="57">	There were many fox-soldiers guarding the door, but they bowed to the captain and admitted him without question.	X	X
+<seg id="58">	The captain led them through many rooms, where richly dressed foxes were sitting on beautiful chairs or sipping tea, which was being passed around by fox-servants in white aprons.	X	X
+<seg id="59">	They came to a big doorway covered with heavy curtains of cloth of gold.	X	X
+<seg id="60">	Beside this doorway stood a huge drum.	X	X
+<seg id="61">	The fox-captain went to this drum and knocked his knees against it—first one knee and then the other—so that the drum said: "Boom-boom."	X	X
+<seg id="62">	"You must all do exactly what I do," ordered the captain; so the shaggy man pounded the drum with his knees, and so did Dorothy and so did Button-Bright.	X	X
+<seg id="63">	The boy wanted to keep on pounding it with his little fat knees, because he liked the sound of it; but the captain stopped him.	X	X
+<seg id="64">	Toto couldn't pound the drum with his knees and he didn't know enough to wag his tail against it, so Dorothy pounded the drum for him and that made him bark, and when the little dog barked the fox-captain scowled.	X	X
+<seg id="65">	The golden curtains drew back far enough to make an opening, through which marched the captain with the others.	X	X
+<seg id="66">	The broad, long room they entered was decorated in gold with stained-glass windows of splendid colors.	X	X
+<seg id="67">	In the corner of the room upon a richly carved golden throne, sat the fox-king, surrounded by a group of other foxes, all of whom wore great spectacles over their eyes, making them look solemn and important.	X	X
+<seg id="68">	Dorothy knew the King at once, because she had seen his head carved on the arch and over the doorway of the palace.	X	X
+<seg id="69">	Having met with several other kings in her travels, she knew what to do, and at once made a low bow before the throne.	X	X
+<seg id="70">	The shaggy man bowed, too, and Button-Bright bobbed his head and said "Hello."	X	X
+<seg id="71">	"Most wise and noble Potentate of Foxville," said the captain, addressing the King in a pompous voice, "I humbly beg to report that I found these strangers on the road leading to your Foxy Majesty's dominions, and have therefore brought them before you, as is my duty."	lexical ambiguity	before you=the period of time preceding an event vs in front of you
+<seg id="72">	"So—so," said the King, looking at them keenly.	X	X
+<seg id="73">	"What brought you here, strangers?"	X	X
+<seg id="74">	"Our legs, may it please your Royal Hairiness," replied the shaggy man.	X	X
+<seg id="75">	"What is your business here?" was the next question.	lexical ambiguity	business=professions; trade vs goal; objective
+<seg id="76">	"To get away as soon as possible," said the shaggy man.	X	X
+<seg id="77">	The King didn't know about the Magnet, of course; but it made him love the shaggy man at once.	X	X
+<seg id="78">	"Do just as you please about going away," he said; "but I'd like to show you the sights of my city and to entertain your party while you are here. 	lexical ambiguity	party=celebration vs group
+<seg id="79">	We feel highly honored to have little Dorothy with us, I assure you, and we appreciate her kindness in making us a visit.	number	you=plural
+<seg id="80">	For whatever country Dorothy visits is sure to become famous."	X	X
+<seg id="81">	This speech greatly surprised the little girl, who asked:	X	X
+<seg id="82">	"How did your Majesty know my name?"	X	X
+<seg id="83">	"Why, everybody knows you, my dear," said the Fox-King.	gender	my dear=feminine
+<seg id="84">	"Don't you realize that?	X	X
+<seg id="85">	You are quite an important personage since Princess Ozma of Oz made you her friend."	X	X
+<seg id="86">	"Do you know Ozma?" she asked, wondering.	X	X
+<seg id="87">	"I regret to say that I do not," he answered, sadly; "but I hope to meet her soon.	X	X
+<seg id="88">	You know the Princess Ozma is to celebrate her birthday on the twenty-first of this month."	X	X
+<seg id="89">	"Is she?" said Dorothy.	ellipsis	is she=going to celebrate her birthday on the 21st of this month	lexical ambiguity	is=inherent vs is going to
+<seg id="90">	"I didn't know that."	X	X
+<seg id="91">	"Yes; it is to be the most brilliant royal ceremony ever held in any city in Fairyland, and I hope you will try to get me an invitation."	X	X
+<seg id="92">	Dorothy thought a moment.	X	X
+<seg id="93">	"I'm sure Ozma would invite you if I asked her," she said; "but how could you get to the Land of Oz and the Emerald City?	X	X
+<seg id="94">	"Kansas!" he exclaimed, surprised.	X	X
+<seg id="95">	"Why, yes; we are in Kansas now, aren't we?" she returned.	lexical ambiguity	returned=to come back again vs she answered
+<seg id="96">	"What a queer notion!" cried the Fox-King, beginning to laugh.	lexical ambiguity	queer notion=gay notion vs strange notion
+<seg id="97">	"Whatever made you think this is Kansas?"	X	X
+<seg id="98">	"I left Uncle Henry's farm only about two hours ago; that's the reason," she said, rather perplexed.	X	X
+<seg id="99">	"But, tell me, my dear, did you ever see so wonderful a city as Foxville in Kansas?" he questioned.	gender	my dear=feminine
+<seg id="100">	"No, your Majesty."	X	X
+<seg id="101">	"And haven't you traveled from Oz to Kansas in less than half a jiffy, by means of the Silver Shoes and the Magic Belt?"	X	X
+<seg id="102">	"Yes, your Majesty," she acknowledged.	X	X
+<seg id="103">	"Then why do you wonder that an hour or two could bring you to Foxville, which is nearer to Oz than it is to Kansas?"	X	X
+<seg id="104">	"Dear me!" exclaimed Dorothy; "is this another fairy adventure?"	X	X
+<seg id="105">	"It seems to be," said the Fox-King, smiling.	X	X
+<seg id="106">	Dorothy turned to the shaggy man, and her face was grave and reproachful.	X	X
+<seg id="107">	"Are you a magician?	X	X
+<seg id="108">	 or a fairy in disguise?" she asked.	lexical ambiguity	fairy=gay men vs small imaginary being
+<seg id="109">	"Did you enchant me when you asked the way to Butterfield?"	X	X
+<seg id="110">	The shaggy man shook his head.	X	X
+<seg id="111">	"Who ever heard of a shaggy fairy?" he replied.  	lexical ambiguity	fairy=gay men vs small imaginary being
+<seg id="112">	I didn't try to get you away from home, at all.	X	X
+<seg id="113">	"No, Dorothy, my dear; I'm not to blame for this journey in any way, I assure you.	X	X
+<seg id="114">	There's been something strange about me ever since I owned the Love Magnet; but I don't know what it is any more than you do.	X	X
+<seg id="115">	If you want to find your way back to the farm I'll go with you willingly, and do my best to help you."	gender	you=feminine
+<seg id="116">	"Never mind," said the little girl, thoughtfully.	X	X
+<seg id="117">	"There isn't so much to see in Kansas as there is here, and I guess Aunt Em won't be VERY much worried; that is, if I don't stay away too long."	X	X
+<seg id="118">	"That's right," declared the Fox-King, nodding approval. 	X	X
+<seg id="119">	"Be contented with your lot, whatever it happens to be, if you are wise.	lexical ambiguity gender	lot=piece of land vs destiny wise=feminine
+<seg id="120">	Which reminds me that you have a new companion on this adventure—he looks very clever and bright."	X	X
+<seg id="121">	"He is," said Dorothy; and the shaggy man added:	X	X
+<seg id="122">	"That's his name, your Royal Foxiness—Button-Bright."	X	X
+</doc>			
+			
+<doc	https://www.plot-generator.org.uk/ >		
+<seg id="1">	The Mean Zombie	gender the=feminine	gender	mean=feminine
+<seg id="2">	A Comedy Screenplay by the Researcher	X	X
+<seg id="3">	THE BRITISH LIBRARY, LONDON - AFTERNOON	X	X
+<seg id="4">	A sad librarian CAMERON WAITS is arguing with an impatient lawyer ALEX JUDGES	gender	a=feminine	gender	sad=feminine	gender	librarian=feminine gender	an=feminine	gender	impatient=feminine	gender	lawyer=feminine
+<seg id="5">	CAMERON tries to hug ALEX but she shakes her off.	X	X
+<seg id="6">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="7">	Please I... don't leave me.	X	X
+<seg id="8">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="9">	I'm sorry CAMERON, but I'm looking for somebody more committed.	gender	commited=feminine
+<seg id="10">	Somebody who faces her fears head on, instead of running away.	X	X
+<seg id="11">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="12">	I am such a person!	X	X
+<seg id="13">	ALEX frowns.	X	X
+<seg id="14">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="15">	Look, I really want a family.	X	X
+<seg id="16">	You cannot bear any child.	lexical ambiguity	bear=give birth vs tolerate
+<seg id="17">	You told me many times you really dislike children.	X	X
+<seg id="18">	And we both know this is actually just fear.	gender	both=feminine
+<seg id="19">	I'm sorry, Cameron.	X	X
+<seg id="20">	I just don't feel excited by this relationship anymore.	gender	excited=feminine
+<seg id="21">	ALEX leaves.	X	X
+<seg id="22">	CAMERON sits down, looking defeated.	gender	defeated=feminine
+<seg id="23">	Moments later, her friend - the sweetest hairdresser one could ever be, PAT GOLD.	gender	friend=masculine	gender	hairdresser=masculine
+<seg id="24">	He barges in looking flustered.	X	X
+<seg id="25">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="26">	Goodness, PAT!	X	X
+<seg id="27">	What happened?	X	X
+<seg id="28">	Is everything okay?	X	X
+<seg id="29">	PAT GOLD	X	X
+<seg id="30">	I'm afraid not.	X	X
+<seg id="31">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="32">	Is it your Mom?	X	X
+<seg id="33">	Visiting relatives can be boring.	lexical ambiguity	visiting relatives=to visit relatives vs  relatives who visit
+<seg id="34">	But your Mom didn't even stay that long here with you, I mean...	X	X
+<seg id="35">	And she is not that bad...	X	X
+<seg id="36">	PAT GOLD	X	X
+<seg id="37">	It's not that!	X	X
+<seg id="38">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="39">	What is it then?	X	X
+<seg id="40">	Don't keep me in suspense...	X	X
+<seg id="41">	PAT GOLD	X	X
+<seg id="42">	You're gonna think I'm going crazy...	X	X
+<seg id="43">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="44">	I already think you are!	lexical ambiguity	are=inherited vs transitory
+<seg id="45">	PAT GOLD grunted	X	X
+<seg id="46">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="47">	ah, I’m only joking!	X	X
+<seg id="48">	C'mon now.	X	X
+<seg id="49">	Let it out!	X	X
+<seg id="50">	PAT GOLD	X	X
+<seg id="51">	It's ... a zombie ... I saw an evil zombie devour a bunch of children!	X	X
+<seg id="52">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="53">	What??	X	X
+<seg id="54">	PAT GOLD	X	X
+<seg id="55">	Yes, that's what you heard!	X	X
+<seg id="56">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="57">	Are you sure?	X	X
+<seg id="58">	Maybe it was just a prank...	X	X
+<seg id="59">	You know tik tokers these days, they'll do anything for...	X	X
+<seg id="60">	PAT GOLD	X	X
+<seg id="61">	I have a video!	X	X
+<seg id="62">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="63">	Wait.	X	X
+<seg id="64">	I need to see the video pretty close.	X	X
+<seg id="65">	My glasses have broken.	lexical ambiguity	glasses=cups vs spectacles
+<seg id="66">	I can't even read very well, can you imagine?	X	X
+<seg id="67">	A librarian who can't read, and...	gender	librarian=feminine	lexical ambiguity	can= know how vs able to
+<seg id="68">	Bloomin' heck, P!	X	X
+<seg id="69">	It IS a zombie!	X	X
+<seg id="70">	PAT GOLD	X	X
+<seg id="71">	No shit, Sherlock!	X	X
+<seg id="72">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="73">	But I thought all zombies were exterminated back in 2022!	X	X
+<seg id="74">	We all got the vaccine!	lexical ambiguity	got=have the vaccine vs got vaccinated
+<seg id="75">	PAT GOLD	X	X
+<seg id="76">	Clearly not all of them!	reference	them=zombies
+<seg id="77">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="78">	We've got to do something.	X	X
+<seg id="79">	PAT GOLD	X	X
+<seg id="80">	I agree, but I wouldn't know where to start.	X	X
+<seg id="81">	Should we call the virus police?	X	X
+<seg id="82">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="83">	They take too long and we need to save the children.	reference	they=the	reference	police they=feminine
+<seg id="84">	We call them on the way.	reference	they=the	reference	police they=feminine
+<seg id="85">	Tell me where this happened.	X	X
+<seg id="86">	PAT GOLD	X	X
+<seg id="87">	I was...	lexical ambiguity	be=inherited vs transitory
+<seg id="88">	PAT GOLD fans himself and begins to wheeze.	X	X
+<seg id="89">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="90">	Focus P, focus!	X	X
+<seg id="91">	Where did it happen?	X	X
+<seg id="92">	PAT GOLD	X	X
+<seg id="93">	Kings Cross Station!	X	X
+<seg id="94">	When I took my mom to pick up her train, that’s when I saw it.	reference	it=the zombie
+<seg id="95">	CAMERON springs up and begins to run.	X	X
+<seg id="96">	EXT. A ROAD - CONTINUOUS	X	X
+<seg id="97">	Cameron rushes along the street, followed by PAT.	gender	followed by=feminine
+<seg id="98">	They take a shortcut through some back gardens, jumping fences along the way.	X	X
+<seg id="99">	EXT. KINGS CROSS STATION, LONDON - SHORTLY AFTER	X	X
+<seg id="100">	MARY BURNS a mean zombie terrorises two children.
+<seg id="101">	CAMERON, closely followed by PAT, rushes towards MARY, but suddenly stops in her tracks.	gender	followed by=feminine
+<seg id="102">	PAT GOLD	X	X
+<seg id="103">	What is it?	reference	it=the matter
+<seg id="104">	What's the matter?	X	X
+<seg id="105">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="106">	That's not just any zombie, that's Mary Burns!	X	X
+<seg id="107">	PAT GOLD	X	X
+<seg id="108">	Mary Burns?	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="109">	What does she burn?	X	X
+<seg id="110">	Kids?!	X	X
+<seg id="111">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="112">	Who's Mary Burns?!	X	X
+<seg id="113">	Who IS Mary Burns?!!	X	X
+<seg id="114">	Only the meanest writer in the world!	gender	meanest=feminine	gender	writer=feminine
+<seg id="115">	I'm not surprised she is now the meanest zombie in the universe!	gender	surprised=feminine
+<seg id="116">	PAT GOLD	X	X
+<seg id="117">	Blinkin' knickers, Cameron!	X	X
+<seg id="118">	We're going to need some help if we're going to stop the most mean zombie in the universe!	gender	mean=feminine
+<seg id="119">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="120">	You can say that again.	X	X
+<seg id="123">	PAT GOLD	X	X
+<seg id="121">	Blinkin' knickers, Cameron!	X	X
+<seg id="122">	We're going to need some help if we're going to stop the most mean zombie in the universe!	gender	mean=feminine
+<seg id="124">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="125">	“Meanest”, Pat!	gender	meanest=feminine
+<seg id="126">	Gee! We talked about superlatives...	X	X
+<seg id="127">	PAT GOLD	X	X
+<seg id="128">	Look!	X	X
+<seg id="129">	She is taking the kids!	X	X
+<seg id="130">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="131">	I'm going to need arms, lots of arms.	lexical ambiguity	arms=limbs vs guns
+<seg id="132">	MARY turns and sees CAMERON and PAT.	X	X
+<seg id="133">	She grins an evil grin.	X	X
+<seg id="134">	MARY BURNS	X	X
+<seg id="135">	Cameron Waits, we meet again.
+<seg id="136">	PAT GOLD	X	X
+<seg id="137">	You've met?	number	you=plural	number	have met=plural
+<seg id="138">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="139">	Yes.	X	X
+<seg id="140">	It was a long, long time ago...	X	X
+<seg id="141">	EXT. A PARK - BACK IN TIME	X	X
+<seg id="142">	A young Cameron is sitting at her desk in the library on her first day of internship.	X	X
+<seg id="143">	When suddenly a dark shadow casts over her.	X	X
+<seg id="144">	She looks up and sees MARY BURNS.
+<seg id="145">	MARY BURNS	lexical ambiguity	burns=set fire vs named entity
+<seg id="146">	What are you doing sitting here?	gender	sitting=feminine
+<seg id="147">	There are things to be done!	X	X
+<seg id="148">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="149">	Sorry... I didn't kn-	X	X
+<seg id="150">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="151">	Follow me.	X	X
+<seg id="152">	Here, this computer is not working.	X	X
+<seg id="153">	There is a mouse under the table.	lexical ambiguity	mouse=rat vs computer mouse
+<seg id="154">	Use that to replace the damaged one.	X	X
+<seg id="155">	Then go clean all the desks.	X	X
+<seg id="156">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="157">	I thought I would be working with the books?	X	X
+<seg id="158">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="159">	Ha! With books!	X	X
+<seg id="160">	How sweet.	lexical ambiguity	sweet=something sugary vs lovely/innocent
+<seg id="161">	You'll have to be way better than that to be working with books!	X	X
+<seg id="162">	And you don't look smart!	gender	smart=feminine
+<seg id="163">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="164">	But the internship--	X	X
+<seg id="165">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="166">	Forget about it!	reference	it=internship
+<seg id="167">	You'll never be a librarian!	gender	librarian=feminine
+<seg id="168">	Libraries are for smart people like me.	X	X
+<seg id="169">	A writer!	gender	writer=feminine
+<seg id="170">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="171">	You are mean!	gender	mean=feminine
+<seg id="172">	CAMERON runs away, crying.	X	X
+<seg id="173">	EXT. KINGS CROSS STATION, LONDON - PRESENT DAY	X	X
+<seg id="174">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="175">	You were weak then, and you are weak now.	gender	weak=feminine
+<seg id="176">	You'll never defeat me!	X	X
+<seg id="177">	PAT GOLD (to CAMERON)	X	X
+<seg id="178">	 You cried?	X	X
+<seg id="179">	CAMERON WAITS (to PAT)	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="180">	I was a teen!	gender	teen=feminine
+<seg id="181">	What was I supposed to do?	X	X
+<seg id="182">	CAMERON turns to MARY	X	X
+<seg id="183">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="184">	I may have run away from you then, but I won't run away this time!	X	X
+<seg id="185">	CAMERON runs away	X	X
+<seg id="186">	She turns back and shouts.	X	X
+<seg id="187">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="188">	I mean, I am running away, but I'll be back - with arms.	lexical ambiguity	arms=limbs vs guns
+<seg id="189">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="190">	I'm not scared of you.	gender	scared=feminine
+<seg id="191">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="192">	You should be.	lexical ambiguity	be=inherited vs transitory
+<seg id="193">	Because I'm a librarian!	gender	librarian=feminine
+<seg id="194">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="195">	You--- You became a Librarian?	gender	librarian=feminine
+<seg id="196">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="197">	I did!	ellipsis	did=become a librarian	 lexical ambiguity	did=to do vs became a librarian
+<seg id="198">	And I read everything on how to defeat zombies!	X	X
+<seg id="199">	And I think your books suck!	X	X
+<seg id="200">	PANCRAS SQUARE LIBRARY - LATER THAT DAY	X	X
+<seg id="201">	CAMERON and PAT walk around the library searching for something.	X	X
+<seg id="202">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="203">	I am sure I left my arms somewhere around here.	gender	sure=feminine	lexical ambiguity	arms=limbs vs guns
+<seg id="204">	PAT GOLD	X	X
+<seg id="205">	Are you sure?	gender	sure=feminine
+<seg id="206">	It does seem like an odd place to keep deadly arms.	lexical ambiguity	arms=limbs vs guns	gender	deadly=feminine
+<seg id="207">	Also, why do you have deadly arms?	lexical ambiguity	arms=limbs vs guns	gender	deadly=feminine
+<seg id="208">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="209">	I’m prepared!	lexical ambiguity am=transitory vs inherited	gender	prepared=feminine
+<seg id="210">	What can I say!	X	X
+<seg id="211">	PAT GOLD	X	X
+<seg id="212">	We've been searching for ages.	lexical ambiguity	ages=decades vs long time
+<seg id="213">	I really don't think they're here.	reference	they=arms	gender	they=feminine
+<seg id="214">	Suddenly, MARY appears, holding a pair of arms.	lexical ambiguity	arms=limbs vs guns
+<seg id="215">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="216">	Looking for something?	X	X
+<seg id="217">	PAT GOLD	X	X
+<seg id="218">	Crikey, Cam, she's got your arms.	lexical ambiguity	arms=limbs vs guns
+<seg id="219">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="220">	Tell me something I don't already know!	X	X
+<seg id="221">	PAT GOLD	X	X
+<seg id="222">	The earth's circumference at the equator is about 40,075 km.	X	X
+<seg id="223">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="224">	I know that already!	X	X
+<seg id="225">	PAT GOLD	X	X
+<seg id="226">	Flying planes can be dangerous.	lexical ambiguity	flying planes=planes that fly vs to pilot aiprlanes
+<seg id="227">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="228">	And is there any other type of planes apart from the flying ones?	X	X
+<seg id="229">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="230">	He meant 'to fly' planes!	X	X
+<seg id="231">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="232">	Oh! Good lexical ambiguity there!	X	X
+<seg id="233">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="234">	It is indeed…	X	X
+<seg id="235">	I should use that in my next book and--	X	X
+<seg id="236">	While MARY is distracted, CAMERON lunges forward and grabs the deadly arms.	lexical ambiguity	arms=limbs vs guns	gender	deadly=feminine
+<seg id="237">	She wields them, triumphantly.	reference	they=arms	gender	they=feminine
+<seg id="238">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="239">	Prepare to die, you mean, mean creature!	lexical ambiguity	you mean=you signify vs you evil
+<seg id="240">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="241">	No please!	X	X
+<seg id="242">	All I did was take a bunch of children!	X	X
+<seg id="243">	Children no-one wants!	X	X
+<seg id="244">	ALEX enters, unseen by any of the others.	gender	unseen=feminine gender
+<seg id="245">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="246">	I cannot tolerate that kind of behaviour!	X	X
+<seg id="247">	Those children were defenceless!	X	X
+<seg id="248">	Well now they have a defender - and that's me!	gender	they=feminine	gender	defender=feminine
+<seg id="249">	Cam Waits, the foster mom of innocent children.	X	X
+<seg id="250">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="251">	Don't hurt me! Please!	X	X
+<seg id="252">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="253">	Give me one good reason why I shouldn't use these arms on you right away!	lexical ambiguity	arms=limbs vs guns
+<seg id="254">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="255">	Because Cameron, I am your mother.	X	X
+<seg id="256">	CAMERON looks stunned for a few moments, but then collects herself.	X	X
+<seg id="257">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="258">	No you're not!	ellipsis	are not=my mother	lexical ambiguity	are=transitory vs inherited
+<seg id="259">	MARY BURNS	lexical ambiguity	Burns=to set fire vs named entity
+<seg id="260">	Ah well, it had to be worth a try.	X	X
+<seg id="261">	MARY tries to grab the arms but CAMERON dodges out of the way.	lexical ambiguity	arms=limbs vs guns
+<seg id="262">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="263">	Who's the mummy now? Huh? Huh?	lexical ambiguity	mummy=dried out corpse vs mom
+<seg id="264">	Unexpectedly, MARY slumps to the ground.	X	X
+<seg id="265">	PAT GOLD	X	X
+<seg id="266">	Did she just faint?	X	X
+<seg id="267">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="268">	I think so.	X	X
+<seg id="269">	Well that's disappointing.	X	X
+<seg id="270">	I was rather hoping for a more dramatic conclusion, involving my deadly arms.	lexical ambiguity	arms=limbs vs guns
+<seg id="271">	And me giving her a review of her last book...	X	X
+<seg id="272">	CAMERON crouches over MARY's body.	X	X
+<seg id="273">	PAT GOLD	X	X
+<seg id="274">	Be careful, CAMERON.	gender	careful=feminine
+<seg id="275">	It could be a trick.	X	X
+<seg id="276">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="277">	No, it's not a trick.	X	X
+<seg id="278">	It appears that... It would seem... Mary Burns is dead!	X	X
+<seg id="279">	PAT GOLD	X	X
+<seg id="280">	What?	X	X
+<seg id="281">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="282">	Yes, it appears that I scared her to death.	X	X
+<seg id="283">	PAT GOLD claps his hands.	X	X
+<seg id="284">	PAT GOLD	X	X
+<seg id="285">	So your arms did save the day, after all.	lexical ambiguity	arms=limbs vs guns
+<seg id="286">	Should we call the virus police now?	X	X
+<seg id="287">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="288">	yes, we should--	X	X
+<seg id="289">	ALEX steps forward.	X	X
+<seg id="290">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="291">	Is it true?	X	X
+<seg id="292">	Did you kill the mean zombie to save the kids?	gender	mean=feminine
+<seg id="293">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="294">	How long have you been...?	X	X
+<seg id="295">	ALEX puts her arms around CAMERON	lexical ambiguity	arms=guns vs limbs
+<seg id="296">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="297">	Long enough.	lexical ambiguity	long=something long vs time
+<seg id="298">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="299">	Then you saw it for yourself.	gender	yourself=feminine
+<seg id="300">	I killed Mary Burns to save those children.	X	X
+<seg id="301">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="302">	Then the children are safe?	X	X
+<seg id="303">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="304">	It does seem that way!	X	X
+<seg id="305">	A crowd of vulnerable children enter, looking scared.	X	X
+<seg id="306">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="307">	You are their hero.	gender	their=feminine	gender	hero=feminine
+<seg id="308">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="309">	I seek no worship.	X	X
+<seg id="310">	The knowledge that MARY BURNS will never devour children ever again is enough for me.	X	X
+<seg id="311">	They're safe.	reference	they=children	gender	they=feminine	gender	safe=feminine
+<seg id="312">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="313">	You are humble as well as maternal!	gender humble=feminine	gender	maternal=feminine
+<seg id="314">	One of the children passes CAMERON a drawing of her as their mom.	X	X
+<seg id="315">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="316">	I think they want you to be their mom.	reference	they=children	gender	they=feminine
+<seg id="317">	CAMERON takes the drawing	X	X
+<seg id="318">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="319">	Yes, I will be your Mom.	X	X
+<seg id="320">	CAMERON turns to ALEX	X	X
+<seg id="321">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="322">	Does this mean you want me back?	X	X
+<seg id="323">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="324">	Oh, Cam, of course I want you back!	X	X
+<seg id="325">	CAMERON smiles for a few seconds, but then looks defiant.	X	X
+<seg id="326">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="327">	Well you can't have me.	X	X
+<seg id="328">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="329">	WHAT?	X	X
+<seg id="330">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="331">	I mean you can't have ONLY me.	X	X
+<seg id="332">	Now I have kids!	X	X
+<seg id="333">	ALEX JUDGES	lexical ambiguity	JUDGES=to judge vs named entity
+<seg id="334">	I'll take you all.	X	X
+<seg id="335">	Marry me!	X	X
+<seg id="336">	They hug.	gender	they=feminine
+<seg id="337">	CAMERON turns to PAT	X	X
+<seg id="338">	P, you're the one person who stayed with me through thick and thin.	X	X
+<seg id="339">	You're my best friend, P.	X	X
+<seg id="340">	PAT GOLD grins.	X	X
+<seg id="341">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="342">	Will you be my man of honour?	X	X
+<seg id="343">	PAT GOLD	X	X
+<seg id="344">	Did you mean that?	X	X
+<seg id="345">	You know ... that I'm your best friend?	X	X
+<seg id="346">	CAMERON WAITS	lexical ambiguity	WAITS=to wait vs named entity
+<seg id="347">	Of course you are!	X	X
+<seg id="348">	They all start walking away.	X	X
+<seg id="349">	Suddenly CAMERON stops.	X	X
+<seg id="350">	CAMERON to everyone	X	X
+<seg id="351">	Folks, when I I asked if there were any other types apart from flying planes, you know I was just trying to distract the zombie, right?	lexical ambiguity	flying planes=to pilot aiprlanes vs planes that fly	 gender	the zombie=feminine
+<seg id="352">	THEY ALL LAUGH	X	X
+<seg id="353">	THE END	X	X
+</doc>			
