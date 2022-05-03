@@ -29,7 +29,7 @@ The corpus is available in two formats:
 Folders:
   
   - EN_ID: contains the files with the corpus in English, with sentence ID, in txt format. Each file contains one domain.
-  - PT-BR: contains the files with the corpus with the translation into PT-BR, with sentence ID, in txt format. Each file contains one domain.
+  - PT_BR translations_ID: contains the files with the corpus with the translation into PT-BR, with sentence ID, in txt format. Each file contains one domain.
   - Contex-related issues annotated: contains the files with the corpus in English annotated with the context-related issues, with sentence ID, in txt format. Each file contains one domain. It also contains the .xls file, a spreadsheet with the corpus and translation, with sentence ID, annotated and modifications performed int he source. Each tab is one domain. 
   - Guides: contains the guidelines (In English) and the Decision Tree. 
 
