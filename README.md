@@ -34,3 +34,6 @@ Folders:
   - Guides: contains the guidelines (In English) and the Decision Tree. 
 
 Please, see publication for more details.
+
+Sheila Castilho, João Lucas Cavalheiro Camargo, Miguel Menezes, and Andy Way. 2021. DELA Corpus - A Document-Level Corpus Annotated with Context-Related Issues. In Proceedings of the Sixth Conference on Machine Translation, pages 571–582. Association for Computational Linguistics (ACL), November 2021.
+https://doras.dcu.ie/26256/
