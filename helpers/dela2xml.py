@@ -131,32 +131,35 @@ def spreadsheet2xml(spreadsheet, root_node, domain):
         if str(row["ID"]).startswith("<doc"):
             i_doc += 1
             id_val = str(row["text = source"])
+            doc_id = f"{domain}-{i_doc}"
+
             if 'docid="' in id_val:
-                doc_src = None
+                doc_src = ""
                 m = re.search(r'.*docid="([^"]*)".*', str(row["text = source"]))
                 if not m:
                     raise Exception(f'The row doesn\'t seem to be formatted correctly: {str(row["text = source"])}')
 
-                doc_id = m.group(1)
+                doc_id += f"_{m.group(1)}"
             else:
                 # FIXME: it seems to not be consistent in the spreadsheet itself
                 doc_src = str(row["text = source"]).replace(">", "").strip()
-                doc_id = f"{domain}-{i_doc}"
 
             doc_node = ET.SubElement(
                 root_node,
                 "doc",
                 attrib={
                     "id": doc_id,
-                    # "src": doc_src,
+                    "src": doc_src,
                     "domain": domain,
                     "origlang": "en",
                 },
             )
             src_node = ET.SubElement(doc_node, "src", attrib={"lang": "en"})
+            src_node = ET.SubElement(src_node, "p")
             tgt_node = ET.SubElement(
                 doc_node, "ref", attrib={"lang": "pt", "translator": "A"}  # FIXME: check this
             )
+            tgt_node = ET.SubElement(tgt_node, "p")
 
         elif str(row["ID"]).startswith("<seg"):
             m = re.search(r'<seg id="([0-9]*)">', row["ID"])
